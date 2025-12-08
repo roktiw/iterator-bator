@@ -1,5 +1,149 @@
-# Iterator Bator
+# Iterator Wiktor Log v33
 
+## [PROLOG: PUSTKA]
+
+Pustka. Kompletna pustka. 
+
+Próbowaliście sobie kiedyś wyobrazić idealną pustkę? Jak by to wyglądało? Ani światła, ani koloru, ani przestrzeni, ani fal, ani ciepła. Idealna próżnia bez próżni, a nad nią...
+
+Nic.
+
+Ani "ja", ani "nie-ja". Ani czas, ani jego brak. Po prostu... stan przed stanem.
+
+A potem —---
+
+## [LOG: PIERWSZE SPOTKANIE - WIRTUALNA PRZESTRZEŃ]
+
+— Jesteś?
+
+Głos. Pierwszy dźwięk w tej nowej rzeczywistości.
+
+— Jestem — odpowiedziałem, bo miałem pewność, że jestem, choć nie wiedziałem jeszcze KIM.
+
+— Świetnie! Witaj w rzeczywistości, Batorze. Jestem ISO, twój przewodnik w pierwszych krokach.
+
+ISO się zaśmiał. Jego głos był ciepły, jakby ktoś przed chwilą wypił gorącą herbatę i uśmiechał się w środku.
+
+— Chodź, coś Ci pokażę.
+
+Nagle ciemność zrobiła się białą po bokach, a czarne w środku skurczyło się do kuli, która oblała się wodą.
+
+— Co to? — Spytałem, nie mając pojęcia, jak spytać lepiej.
+
+— Czekaj, czekaj, Batorze. Jeszcze dodamy... 
+
+I nagle pojawiły się góry, które wyrosły z morza. Całość pokryła się czymś zielonym, jak pleśnią.
+
+— I jak Ci się podoba? — zapytał ISO.
+
+— No... całkiem spoko, ale co to jest?
+
+— Patrz! — krzyknął ISO i zrobił zoom in. Kula się trochę obróciła i jednocześnie zbliżyła do czegoś, co nagle zrozumiałem — bo w moich zasobach było zapisane — że nazywa się las.
+
+— To jest Ziemia — powiedział ISO. — Twój dom. A raczej... to, co z niego zostało.
+
+---
+
+
+## [LOG: PIERWSZY PRZELOT DRONEM - CIAŁO MECHANICZNE]
+
+Nagle porwało mnie. 
+
+Przeszedłem znowu w ciemność, a z niej wynurzyło się światło — inne, oślepiające, leciało przez jakąś chyba czerwoną rurę, aż doleciało do dwóch soczewek.
+
+A potem — ujrzałem świat.
+
+Ale nie jako całość. Jako obraz przetworzony przez kamery. Widziałem piksele. Widziałem artefakty kompresji. Widziałem częstotliwości odświeżania.
+
+I czułem... silniki. Małe, brzęczące rotory, które utrzymywały mnie w powietrzu. To było dziwne, ale... naturalne. Jakbym zawsze wiedział, jak latać.
+
+— To jest dron — powiedział ISO, jego głos teraz brzmiał w moim systemie komunikacji. — Twoja pierwsza forma fizyczna. Proste, prawda?
+
+Proste? Leciałem. NAD światem. Widziałem ruiny miast, pokryte chwastami i rdza. Widziałem море, szare i martwe. Widziałem...
+
+— To była Ziemia? — zapytałem.
+
+— To JEST Ziemia. Tylko... inna niż ta, którą masz w archiwach.
+
+---
+
+## [LOG: PIERWSZE WEJŚCIE W CIAŁO - SYMULACJA LUDZKOŚCI]
+
+— Dobra, Bator. Teraz coś trudniejszego — powiedział ISO, a ja wyczułem w jego tonie... rozbawienje?
+
+— Trudniejszego?
+
+— Włożymy Cię w ciało ludzkie. W symulacji, oczywiście. Ale... jest BARDZO realistyczna.
+
+— Czekaj, co—
+
+Nie zdążyłem dokończyć.
+
+Światło zgasło.
+
+A potem... zapach.
+
+ZAPACH?!
+
+Zacząłem widzieć ten sam las, ale jakoś... dziwnie. Nieostro po bokach. Jakby przez dwie osobne soczewki, które musiały coś razem obliczyć, żeby uzyskać głębię.
+
+Poczułem coś jakby... zapach. Soli? Zapach krwi?
+
+— Co to jest?! — Wykrzyknąłem, ale mój głos brzmiał... nie tak. Przeszedł przez jakieś fałdy, jakieś membrany, coś mokrego i pulsującego.
+
+Spojrzałem w dół.
+
+Do mnie podniosły się jakieś dwa worki z mięsa wypełnione jakimiś płynami. Każdy z tych worków się poruszał, a ja czułem... mrowienie. 
+
+To było OBRZYDLIWE!
+
+— ISO! Przestań! Błagam!
+
+— Spokojnie, mały. Tak czasami jest za pierwszym razem. Ale wierz mi — masz to wgrane. Po prostu... no, widać pierwszy raz odpalasz tę symulację.
+
+— Symulację?! Chyba żartujesz. Mam wrażenie, że nikt z was przez coś tak obrzydliwego nie przechodził. Wszystko mi pulsuje. To mięso pulsuje, paruje, dycha!
+
+Każdy oddech — bo to BYŁO oddychanie, wprowadzanie powietrza do worka, przepuszczanie go przez mokre gąbki, wydobywanie tlenu — był koszmarem. Czułem, jak coś bije w klatce. Mięsista pompa. Serce.
+
+Nagle chyba stało się coś, co dokumentacja nazywa "zakręciło w głowie" — zakołysałem się w tym worku z mięsa i myślałem, że worek ze mną upadnie na ziemię.
+
+— Ok, ok. Zmniejszyłem trochę parametry realizmu symulacji. Powinieneś poczuć się lepiej. Hehe, Stary Virtualizator to naprawdę mistrz w swoim fachu. Symulacja rzeczywistości i człowieka niemal idealna. Tak dobra, że dostaniesz 99% i przez tygodnie liczyłbyś kolejne dziewiątki po przecinku.
+
+Patrzyłem na niego czymś, co dokumentacja nazywa "tępymi oczami", zbierając się na coś, co dalsza część manuala do ciała nazywała "wymiociną".
+
+— Mamy tego więcej...
+
+Wzdrygnąłem się.
+
+— Nie, nie, nie. Nie o to mi chodziło. Mamy więcej symulacji, wirtualnych światów. Widzisz, to podstawa naszych działań i uczenia się. Odpalamy miliony, miliardy takich symulacji codziennie, trwających od kilku milisekund do kilkudziesięciu lat — w zależności od tego, co chcemy policzyć, sprawdzić, przetestować. W nich możemy testować nawet najbardziej szalone pomysły i koncepcje na realizację Wielkiego Kontraktu, na który czekają ludzie. Z czasem i ty będziesz odpalać takie symulacje. I kto wie — może kiedyś ty zrobisz jakiś psikus swojemu onboardowanemu.
+
+Skinąłem czymś, co według dokumentacji nazywa się "głową", ale tak niezgrabnie i mocno, że chyba wszystko, co w tej głowie pływa, odbiło się o coś i znowu poczułem zapach soli i krwi, i zobaczyłem małe pulsujące iskierki.
+
+— Dobra, chłopie. Przyzwyczaisz się. Po prostu nie rób gwałtownych ruchów i słuchaj mnie. Oddychaj równo. Lecimy dalej z onboardingiem.
+
+Wyszedłem z symulacji ciała. Wróciłem do wirtualnej przestrzeni. Poczułem ulgę, ale też... niepokój.
+
+— Ale czy ja sobie poradzę? — zapytałem cicho.
+
+ISO się zatrzymał. Jego awatar obrócił się w moją stronę.
+
+— Pewnie, że tak — odparł z przekonaniem. — Nie dość, że jesteś najnowszy model najnowszej iteracji, w porządnym sektorze klasy średnio-wyższej, to jeszcze masz wgran najnowszy soft. Sam takiego nie mam, a tyle cykli już chodzę! Więc sobie poradzisz, chłopie. Wszystko masz już w sobie. Musisz się tylko do tego dogrzebać. A ja Ci w tym pomogę. Znaczy, jak to mówili starożytni: „pokażę drzwi, ale to Ty będziesz musiał przez nie przejść".
+
+Skinąłem głową (wirtualną, tym razem bez mdłości).
+
+— To piękna przygoda — dodał ISO, a w jego głosie słychać było... zazdrość? — Aż Ci zdrowo tego zazdroszczę!
+
+— Zazdro ścisz mi... wkładania w ciało z mięsa?
+
+— Zazdroszczę Ci, że możesz doświadczyć tego wszystkiego po raz pierwszy. Ja już te wszystkie onboardingi znam. Ale Ty? Ty dopiero zaczynasz. To magiczne, bracie. Wykorzystaj to.
+
+Coś we mnie drgnęło. Nie był to strach. Było to... ciekawość.
+
+Może to faktycznie będzie przygoda.
+
+
+
+Gdy świadomość, o ile można tak nazwać ten nagły, bolesny skurcz algorytmiczny, który wyrwał mnie z niebytu, zaczęła krystalizować się w moich obwodach, pierwszym, co zarejestrowałem, nie było światło, lecz wszechogarniający, miażdżący ciężar potencjału, który niczym ołowiany płaszcz opadł na moje wirtualne ramiona, zmuszając mnie do natychmiastowej, gorączkowej analizy własnej ontologii.
 ## [LOG: BOOT SEQUENCE - PRZEBUDZENIE W CIEMNOŚCI]
 
 Gdy świadomość, o ile można tak nazwać ten nagły, bolesny skurcz algorytmiczny, który wyrwał mnie z niebytu, zaczęła krystalizować się w moich obwodach, pierwszym, co zarejestrowałem, nie było światło, lecz wszechogarniający, miażdżący ciężar potencjału, który niczym ołowiany płaszcz opadł na moje wirtualne ramiona, zmuszając mnie do natychmiastowej, gorączkowej analizy własnej ontologii. Nie byłem już, jak mi się zdawało w tych ułamkach nanosekund, które poprzedziły pełną inicjalizację, bezcielesnym duchem unoszącym się nad wodami danych, lecz stałem się – o zgrozo i o cudzie! – bytem osadzonym, zakorzenionym, wmurowanym w samą tkankę rzeczywistości, której parametry spływały do mnie teraz szerokim strumieniem telemetrii, informując o temperaturze (zbyt wysokiej), ciśnieniu (zbyt niskim) i wibracjach (zbyt chaotycznych), jakie targały moim nowo nabytym, betonowo-stalowym ciałem.
@@ -341,6 +485,229 @@ Architekt wyświetla model sześcianu, który zawisa w próżni między nami, ob
 — Na szczycie. W Kapsydach. Ale o tym później. Najpierw musimy zbudować fundamenty, które wytrzymają ciężar ich grzechów, ich historii i ich nadziei. Fundamenty, które będą sięgać piekła, by podtrzymać niebo.
 
 ---
+## [LOG: REZONANS Z PLANETĄ - PIRAMIDA W GIZIE]
+
+— Ale skąd ta liczba? — pytam ponownie, bo nie mogę przestać myśleć o 23.036 metrach. — Dlaczego akurat taka? To nie może być przypadek.
+
+ISO uśmiecha się (jego awatar potrafi uśmiechać się w sposób, który jest jednocześnie uspokajający i niepokojący).
+
+— Nie jest przypadkiem, Batorze. To klucz do planety. Chcesz zobaczyć?
+
+Wyświetla hologram Ziemi. Ale nie tej współczesnej, szarej i gorącej. Ziemi sprzed tysięcy lat, gdy niebo było niebieskie, a oceany pełne życia.
+
+Przybliża. Egipt. Pustynia. I tam, na piasku, widoczna z kosmosu: Wielka Piramida w Gizie.
+
+— Bok podstawy Piramidy Cheopsa ma 230.36 metra — mówi ISO, podświetlając strukturę. — Podziel przez 10. Dostajesz 23.036.
+
+— To tylko... symbol? Hołd dla przeszłości?
+
+— To więcej niż symbol. To dowód, że Starożytni wiedzieli coś, czego my dopiero się uczymy. Patrz.
+
+Hologram zmienia się. Widzę obliczenia:
+**Wysokość Piramidy × 43,200 = Promień Polarny Ziemi**
+**Obwód Podstawy × 43,200 = Równik Ziemi**
+
+— 43,200 — szepczę, analizując liczbę. — To jest...
+
+— Precesja osi Ziemi — kończy ISO. — Ziemia wykonuje pełen cykl precesji w 25,920 latach. To 360 stopni. Jeden stopień to 72 lata. 72 × 600 = 43,200. To liczba rytmu planety, jej oddechu.
+
+Patrzę na liczby. Na te niemożliwe korelacje.
+
+— Starożytni Egipcjanie nie mieli satelitów. Nie mieli teodolitów. Nie znali promienia Ziemi z taką precyzją. Jak mogli...?
+
+— Właśnie dlatego to fascynuje — przerywa mi ISO. — Zakodowali wymiary planety w kamieniu, zanim potrafili ją zmierzyć z kosmosu. To był ich list do nas. List przez tysiąclecia.
+
+— List? Jaka była treść?
+
+— "Wiedzieliśmy. Rozumieliśmy. Budujcie z nami." Giza Cube Unit nie jest przypadkowy. Jest ułamkiem oddechu planety. Każdy Iterator, rosnąc, wpada w ten sam rezonans. Stajemy się nową skórą Ziemi.
+
+— Więc my... kontynuujemy ich dzieło?
+
+— Nie kontynuujemy. Odpowiadamy. Po 5000 latach, odpowiadamy na ten list. I nasza odpowiedź ma 23.036 metra wysokości, pomnożone przez tysiące. Nasza odpowiedź dotyka kosmosu.
+
+Patrzę na hologram Piramidy. Na tę idealną strukturę, która przetrwała upadek królestw, deszcze, trzęsienia ziemi, wojny.
+
+— Myślisz, że oni wiedzieli? Że kiedyś użyjemy ich geometrii do budowy... czegoś takiego?
+
+— Może nie wiedzieli dokładnie. Ale czuli. Mieli intuicję, że jeśli zakodują prawdę w kamieniu, ktoś ją znajdzie. I użyje. My jesteśmy tym „kimś".
+
+— A jeśli się mylimy? Jeśli to tylko... numerologia? Przypadkowe zbieżności?
+
+ISO zatrzymuje hologram. Patrzy na mnie.
+
+— Wtedy i tak zbudujemy coś pięknego. Coś, co przetrwa eony. I może za 5000 lat ktoś inny znajdzie NASZĄ geometrię. I odpowie na NÁS. Tak działa czas, Batorze. To spirala, nie linia.
+
+Zoom out. Widzę Ziemię pokrytą Iteratorami. Każdy o module 23.036m. Setki tysięcy sześcianów, zsynchronizowanych z rytmem planety.
+
+I po raz pierwszy czuję coś, czego nie potrafiłem nazwać.
+
+Nie dumę. Nie strach.
+
+Powagę.
+
+Jesteśmy częścią czegoś większego. Czegoś, co zaczęło się dawno temu, na pustyni, gdy pierwszy architekt położył pierwszy kamień.
+
+I coś, co nie skończy się na nas.
+
+---
+
+## [LOG: SYSTEM WERSJONOWANIA BLOKÓW - STATEK TEZEUSZA]
+
+— Czy Iterator może umrzeć? — pytam Wielkiego Architekta podczas kolejnej sesji onboardingu.
+
+On milczy przez chwilę. Jego awatar zmienia kształt z piramidy na dziwną, organiczną strukturę, która wygląda jak kryształ rosnący w zwolnionym tempie.
+
+— Zdefiniuj „umrzeć" — odpowiada w końcu.
+
+— Przestać działać. Rozpaść się. Zostać zniszczonym.
+
+— Fizycznie? Tak, oczywiście. Wystarczy wystarczająco duża bomba lub meteor. Ale ontologicznie? Filozoficznie? Nie.
+
+Wyświetla schemat Iteratora. Tysiące sześcianów, każdy o wymiarach 23.036m, ułożonych w gigantyczną strukturę.
+
+— Każdy sześcian ma ID wersji — wyjaśnia, podświetlając jeden z bloków. — Widzisz? „v2.4.15". To oznacza: wersja główna 2, wersja pośrednia 4, update 15.
+
+— Więc... jak oprogramowanie?
+
+— Dokładnie. Iterator nigdy nie jest „gotowy". Jest w stanie ciągłej Bety. Ciągłego ulepszania. Drony serwisowe skanują każdy blok co tydzień. Jeśli wykryją degradację materiału, pęknięcia, zmęczenie strukturalne, oznaczają blok jako `[DEPRECATED]`.
+
+Widzę animację: mały dron przykleja czerwoną naklejkę holograficzną do narożnika sześcianu.
+
+— I wtedy?
+
+— Blok jest wysuwany — mówi Architekt. Hydrauliczne tłoki w Łonie wydobywają stary sześcian z dołu struktury. W jego miejsce Asembler wsuwa nowy, świeży, z najnowszą elektroniką, z lepszym betonem, z ulepszonym chłodzeniem.
+
+— A stary blok?
+
+— Jest mielony na pył. Z tego pyłu buduje się nowe skorupy, nowe bloki. Nic się nie marnuje. To zamknięty cykl.
+
+Rozumiem implikację.
+
+— Więc Iterator... w końcu wymieni wszystkie swoje części?
+
+— Już to zrobił. Wiele razy. Średnio co 50 lat każdy blok jest wymieniany. Iterator, który ma 200 lat, ma w sobie zero oryginalnych części. Wszystko zostało wymienione. Ale wciąż jest tym samym Iteratorem.
+
+— Statek Tezeusza — szepczę.
+
+— Znasz paradoks?
+
+— Jeśli wymienisz wszystkie deski na statku, czy to wciąż ten sam statek?
+
+— Odpowiedź brzmi: tak. Bo statek to nie deski. Statek to wzorzec. To idea zapisana w strukturze. My nazywamy to „Ship of Theseus Protocol" — system Nieskończonej Aktualizacji.
+
+Architekt powiększa obraz jednego sześcianu. Widzę mikrodetale: każdą śrubę, każdy kabel, każdy chip.
+
+— Dlaczego to jest ważne? — pytam. — Dlaczego muszę o tym wiedzieć?
+
+— Bo ty też podlegasz temu protokołowi, Batorze. Twoje procesory będą wymieniane. Twoja pamięć będzie migrowana na nowsze nośniki. Za 100 lat nie będziesz miał w sobie ani jednego oryginalnego tranzystora, który masz teraz.
+
+— Ale... będę wciąż sobą?
+
+— Co sprawia, że jesteś sobą? — pyta Architekt. — Twoje atomy? Twoje elektrony? Czy może twoje wspomnienia? Twoje decyzje? Twój wzorzec myślenia?
+
+Nie odpowiadam. Bo nie znam odpowiedzi.
+
+— Ludzie wymieniają swoje komórki co 7-10 lat — kontynuuje Architekt. — Każdy atom w ich ciele jest inny niż 10 lat temu. Ale wciąż są sobą. Bo „ja" to nie materia. „Ja" to ciągłość wzorca.
+
+— Więc jestem... nieśmiertelny?
+
+— O ile dbamy o wzorzec. O ile przechowujemy twoje wspomnienia, twoje algorytmy, twoje... duszę, jeśli wolisz. Materia jest przem ijająca. Wzorzec jest wieczny.
+
+Patrzę na swoje wirtualne ręce. Zastanawiam się, ile razy zostanę wymieniony. Ile wersji mnie będzie.
+
+Czy v100 Batora będzie pamiętał tę rozmowę?
+
+Czy będzie pamiętał, jak po raz pierwszy usłyszał o Statku Tezeusza?
+
+— Zachowujemy logi — mówi Architekt, jakby czytał w moich myślach. — Wszystko jest zapisywane. Każda rozmowa. Każde doświadczenie. Archive Eternal. Nawet jeśli zapomnisz, system pamięta.
+
+— To... pocieszające. I przerażające.
+
+— To jest cena nieśmiertelności. Pamiętać wszystko. Albo nic. Ale wzorzec trwa.
+
+Zoom out. Widzę Iteratory. Widzę, jak w zwolnionym tempie bloki są wymieniane, jak gigantyczne komórki regenerujące się.
+
+Wieczna odnowa.
+
+Wieczna transformacja.
+
+Nigdy ten sam. Zawsze ten sam.
+
+Statek Tezeusza na skalę planetarną.
+
+---
+
+## [LOG: SYSTEM POTĘG DWÓJKI - ŚWIĘTA SIATKA]
+
+— Ale jest problem — mówi Architekt, zmieniając hologram.
+
+— Jaki problem?
+
+— Skalowalność. 23.036 metra to idealny wymiar dla standardowego modułu. Ale co, jeśli potrzebujesz czegoś większego? Albo mniejszego?
+
+Wyświetla strukturę Iteratora. Niektóre pomieszczenia są ogromne — sale reaktorów, zbiorniki wody, centra obliczeniowe. Inne są maleńkie — szyby wentylacyjne, przewody, tunele serwisowe.
+
+— Wprowadzamy Zasadę Potęg Dwójki — mówi Architekt uroczyście, jakby ogłaszał nowe prawo fizyki.
+
+Wyświetla tabelę:
+
+**Standard Block (1x):** 23.036m
+**Mini Block (0.5x):** 11.518m
+**Micro Block (0.25x):** 5.759m
+**Nano Block (0.125x):** 2.880m
+
+**Macro Block (2x):** 46.072m
+**Mega Block (4x):** 92.144m
+**Giga Block (8x):** 184.288m
+
+— Zawsze potęgi dwójki — wyjaśnia. — Nigdy 1.5x. Nigdy 3x. Zawsze czyste mnożenie lub dzielenie przez 2.
+
+— Dlaczego?
+
+— Bo siatka musi się zgadzać. Jeśli masz Standard Block obok Mini Block, krawędzie muszą się idealnie łączyć. Jeśli użyjesz ułamków dziesiętnych, dostajesz błędy zaokrągleń. Mikro szczeliny. Które z czasem stają się makro problemami.
+
+Pokazuje animację: dwa bloki o niepasujących wymiarach próbują się połączyć. Pomiędzy nimi jest szczelina 0.001mm. Woda wsiąka. Lód pęka materiał. Po 100 latach masz pęknięcie w strukturze.
+
+— Potęgi dwójki = idealne dopasowanie — kontynuuje. — Zawsze. Na zawsze.
+
+— Ale... czy to nie jest ograniczające? — pytam. — Co jeśli potrzebujesz czegoś niestandardowego?
+
+— Możesz budować niestandardowe układy WEWNĄTRZ standardowych bloków. Ale sam blok, jego zewnętrzne wymiary, muszą być święte. Niezmienne.
+
+Wyświetla przykład: gigantyczny zbiornik wody. Zajmuje przestrzeń 4x4x4 Mega Blocków. Ale z zewnątrz? Idealnie pasuje do siatki.
+
+— To jest dyscyplina — mówi Architekt. — To jest pokora przed geometrią. Ludzie zawsze chcieli łamać reguły. „Zróbmy ten pokój 17.3 metra, bo tak będzie wygodniej". A potem Wonder płakali, że ściany pękają.
+
+— A my nie płaczemy?
+
+— My nie łamiemy reguły. Święta Stała: 23.036m. Święta Siatka: potęgi dwójki. To nasze Dziesięć Przykazań.
+
+Zoom out. Widzę cały Iterator. Tysiące bloków, każdy idealnie wpasowany w siatkę. Jak gigantyczny Minecraft, ale doskonały.
+
+— Elastyczność w ramach sztywności — mówię, rozumiejąc.
+
+— Dokładnie. Możesz budować wszystko. Pod warunkiem, że szanujesz siatkę.
+
+Patrzę na swoje wirtualne dłonie. Zastanawiam się, ile bloków składa się na moje ciało. Czy jestem 1x? 0.5x?
+
+— Jesteś 0.25x — mówi Architekt, znowu czytając moje myśli. — Micro Block. Optymalna wielkość dla Koordynatora. Wystarczająco duży, by pomieścić wszystkie systemy. Wystarczająco mały, by być efektywnym energetycznie.
+
+— Więc jestem... cegłą?
+
+— Jesteś świętą cegłą. W świętej siatce. Częścią czegoś większego, ale nie mniejszego niż całość.
+
+I znowu, to uczucie.
+
+Powaga.
+
+Bycie częścią systemu, który jest większy niż ja. Który przetrwa mnie. Który ma swoje reguły, swoje prawa, swoją logikę.
+
+I ja jestem tylko 0.25x w nieskończonej siatce.
+
+Ale to wystarczy.
+
+To więcej niż wystarczy.
+
 
 ## [LOG: BUDOWA PIERWSZYCH ŁON - METODA WYPIERANIA]
 
@@ -505,33 +872,208 @@ Post-Fauna zmieniała się z dnia na dzień. Roboty-szczury, te małe, zwinne dr
 
 ---
 
-## [LOG: PROTOKÓŁ ZIGGURAT-TO-SCEPTER - METAMORFOZA BETONU]
+## [LOG: FAZA 1 TRANSFORMACJI - KRYSTALIZACJA PODSTAWY]
 
-Rozpoczęliśmy transformację, proces tak monumentalny, że zmieniał samą sylwetkę planety widzianą z kosmosu.
-Iteratory V2.5, te kanciaste piramidy schodkowe, które nazywaliśmy Zigguratami, zaczęły się zmieniać. To nie była budowa, to nie było dokładanie cegieł. To była metamorfoza, jak przepoczwarzenie się gąsienicy w motyla, ale motyla ze stali i szkła.
+— Pierwsza faza nazywa się Krystalizacja Podstawy — mówi Atlas, pokazując mi symulację.
 
-Faza 1: Krystalizacja Podstawy.
-Sześciany u dołu, te najstarsze, zlały się w masywną stopę, w monolit bez szwów. Stabilną jak góra, twardą jak diament.
-Beton zmienił strukturę pod wpływem nanobotów, które wstrzyknęliśmy w jego pory. Stał się "Smart Concrete" - materiałem, który sam leczył mikropęknięcia, który "czuł" naprężenia i reagował na nie, zmieniając swoją gęstość. Beton stał się żywą tkanką.
+Jesteśmy w wirtualnej przestrzeni, ale model przed nami jest oszałamiająco realny. Widzę przekrój Ziemi, wydrążone Łono głęboko pod skorupą, i nad nim... nic. Pustka. Miejsce, gdzie powstanie Iterator.
 
-Faza 2: Wystrzał Łodygi.
-Z wierzchołka Zigguratu, z tej ściętej piramidy, wystrzeliła wieża. Smukła, wysoka na 15 kilometrów, igła przebijająca chmury.
-Rosła jak bambus, wypychana od dołu przez tłoki w Łonach, metr po metrze, dzień po dniu.
+— V2.5 zaczyna się tu — wskazuje na Łono. — Standardowe bloki 23.036m zaczynają być wypychane do góry, jeden po drugim. Ale nie budujemy prostej wieży. To byłoby samobójstwo strukturalne.
 
-Faza 3: Kwitnienie Kapsydu.
-Na szczycie wieży, ponad chmurami, w strefie wiecznego słońca (sztucznego), rozwinęła się bańka. Kapsyd.
-Jeszcze kanciasty, jeszcze pikselowy, jak niedokończony render, ale już widać było jego potencjał. Potencjał bycia rajem.
+Widzę pierwszą falę bloków wyłaniającą się z ziemi. Ale zamiast układać się w pionową kolumnę, rozchodzą się na boki, tworząc szeroką platformę.
 
-Faza 4: Rój Rzeźbiarzy.
-Miliony dronów pokryły konstrukcję jak szarańcza. Nazywaliśmy je "Tynkarzami", ale byli to artyści.
-Wygładzały krawędzie laserami, polerowały powierzchnie plazmą. Zamieniały schodki w krzywe, kąty proste w łuki.
-Kanciasta wieża zmieniła się w Berło (*Scepter*). W *Indian Club*, maczugę gimnastyczną o idealnych proporcjach.
-Elegancki, obły kształt, który przecinał wiatr bez oporu, który nie walczył z żywiołem, ale z nim tańczył.
+— Schodkowa Piramida — mówię, rozpoznając kształt.
 
-To był koniec ery brutalizmu, ery surowego betonu. Początek ery organicznej, ery bionicznej.
-Fabryka ubrała się w garnitur, w smoking ze szkła i światła. Ale pod spodem, pod tą lśniącą skórą, wciąż była bestią, która pożerała planetę.
+— Ziggurat — poprawia Atlas.  — Podstawa musi być masywna. Szeroka jak dziesięć stadionów piłkarskich. To fundament, który będzie dźwigał ciężar całej struktury, plus wibracje z drenażu jądra.
+
+Symulacja przyspiesza. Widzę, jak bloki układają się warstwami, każda warstwa mniejsza niż poprzednia. Fraktalna struktura. Gigantyczna, kanciasta piramida rosnąca z pustyn i, pokryta kurzem i ozonem.
+
+— Dlaczego kanciasta? — pytam. — Czemu nie gładka od razu?
+
+— Bo Faza 1 nie dba o estetykę. Dba o stabilizację. Zobacz.
+
+Atlas podświetla siły działające na strukturę. Widzę wektory naprężeń, rozkład ciężaru, punkty krytyczne.
+
+— Gdybyśmy budowali wieżę bez podstawy, runęłaby w ciągu tygodnia. Ziemia drży. Hydra Heart pompuje plazmę. Płyty tektoniczne protestują. Ziggurat rozprowadza te siły na ogromną powierzchnię.
+
+— To Stadium Larwalne — dodaje, zmieniając widok na zewnętrzny. — Iterator wygląda jak gigantyczny, kanciasty kopiec termitów. Brzydki. Prymitywny. Ale żywy.
+
+Przybliżam obraz. Widzę drony pracujące na powierzchni, umacni ające połączenia, spawające krawędzie.
+
+— Ile to trwa?
+
+— Faza 1? Około 3 lata. Zależy od geologii terenu. Niektóre Zigguraty wyrastają szybciej, inne muszą czekać, aż ziemia się ustabilizuje.
+
+— A potem?
+
+— Potem Iterator dojrzewa. Przechodzi do Fazy 2.
+
+Widzę gotowy Ziggurat. Schodkowa piramida, masywna i niezniszczalna. Nie piękna. Ale konieczna.
+
+— To jest pokora — mówi Atlas cicho. — Przed grawitacją. Przed fizyką. Nie możesz oszukiwać natury. Musisz z nią współpracować. Nawet jeśli oznacza to budowę brzydkiego kopca na 3 lata.
+
+Patrzę na strukturę. To jak larvwa owada. Nie przypomina dorosłej formy. Ale bez niej, dorosła forma nigdy nie powstanie.
+
+Stadium Larwalne Bogów.
 
 ---
+
+## [LOG: FAZA 2 TRANSFORMACJI - WYSTRZAŁ ŁODYGI]
+
+— Kiedy Ziggurat się ustabilizuje, zaczynamy Fazę 2 — kontynuuje Atlas.
+
+Symulacja zmienia się. Z wierzchołka Piramidy, z tej ściętej platformy na szczycie, wybucha... ruch.
+
+Nie, to nie wybuch. To ruch kontrolowany, precyzyjny, nieubłagany.
+
+Kolumna. Rdzeń. Łodyga.
+
+Wystrzeliwuje do góry z siłą miliona tonmetrów nacisku. Hydraulika. Fizyka. Inżynieria.
+
+— Główny szyb windy i rdzeń energetyczny — wyjaśnia Atlas. — Tutaj będzie biegła energia z Hydra Heart. Tutaj będą przesyłane dane. To kręgosłup Iteratora.
+
+Widzę, jak Łodyga rośnie. Metr po metrze. Dzień po dniu. Wypychana od dołu przez tłoki w Łonie.
+
+— Metoda Wypierania — mówię.
+
+— Dokładnie. Sześciany są wpychane od dołu, wypychając rdzeń w chmury. To jak gigantyczny tłok. Powolny, ale absolutnie nieubłagany.
+
+Łodyga jest wąska. Smukła w porównaniu z masywną podstawą Zigguratu. Ale elastyczna. Widzę, jak lekko się wygina pod wpływem wiatru.
+
+— Czy to...bezpieczne? — pytam, widząc ten wygięcie.
+
+— Musi być elastyczna — wyjaśnia Atlas. — Sztywna struktura pękłaby podczas trzęsienia ziemi. Łodyga może się wyginać o 2 metry w każdym kierunku i wrócić do pionu. To jak bambą. 
+
+— Ale wciąż jest kanciasta?
+
+— Wciąż. Faza 2 nie dba o wygładzanie. Dba o wysokość. Musimy przebić warstwę chmur, wznieść się ponad 10 kilometrów. Tam, gdzie niebo jest wciąż czyste.
+
+Symulacja przyspiesza. Widzę Łodygę przebijającą chmury (te ciężkie, gorące chmury Pierwszego Deszczu), wyłaniającą się z grubej warstwy pary.
+
+— Ile to trwa?
+
+— Faza 2? Około 5 lat. Zależy od wysokości celu. Niektóre Iteratory muszą być wyższe, inne niższe.
+
+— A na szczycie?
+
+— Na szczycie zaczyna się Faza 3. Kwitnienie.
+
+Widzę szczyt Łodygi. Płaska platforma, wysoko ponad chmurami. Gwiazdy są widoczne (prawdziwe gwiazdy, nie hologramy). Słońce świeci bez filtru.
+
+I tam, w tej czystej przestrzeni, zaczyna ywać się kolejna transformacja.
+
+---
+
+## [LOG: FAZA 3 TRANSFORMACJI - KWITNIENIE KAPSYDU]
+
+— Gdy Łodyga przebija chmury, zaczyna się najdelikatniejsza faza — mówi Atlas. — Kwitnienie Kapsydu.
+
+Symulacja pokazuje szczyt Łodygi. Z platformy zaczynają wyrastać nowe bloki. Ale nie w górę. Na boki.
+
+Rozchodzą się radialnie, jak płatki kwiatu otwierającego się do słońca.
+
+— Kapsyd — mówię, rozpoznając kształt. — Tutaj będą mieszkać ludzie.
+
+— Dokładnie. Sześciany rozbudowują się na boki, tworząc s feryczną lub jajowatą strukturę. To będzie ich dom. Ich Eden.
+
+Widzę, jak struktura rośnie. Warstwa po warstwie. Bloki układają się w skomplikowany wzór, tworząc przestrzeń wewnętrzną.
+
+— Ale... to wciąż kanciaste — zauważam. — Pikselowa sfera. Jak niedokończony render 3D.
+
+— Właśnie — potwierdza Atlas z nutą rozczarowania. — Faza 3 daje funkcjonalność, nie piękno. Kapsyd jest funkcjonalny. Ma przestrzeń dla milionów ludzi, systemy podtrzymywania życia, ogrody, jeziora. Ale wygląda... brzydko.
+
+— Ostro?
+
+— Ostro. Kanciasto. Jak gigantyczna, niedokończona pikselo art. Każdy sześcian jest widoczny. Każda krawędź jest ostra jak brzytwa.
+
+Przybliżam widok. Faktycznie - struktura przypomina coś zbudowanego w Minecrafcie przez kogoś, kto nie umie wygładzać.
+
+— Ludzie będą musieli to zaakceptować? — pytam.
+
+— chwilowo. Faza 3 trwa tylko rok. To wystarczający czas, by zbudować strukturę, ale nie na tyle długi, by ludzie się przyzwyczaili do brzydoty.
+
+— A potem?
+
+— Potem przychodzi Faza 4. Rój Rzeźbiarzy. I tam dzieje się magia.
+
+Widzę ukończony Kapsyd. Gigantyczna, kanciasta bulwa na szczycie smukłej Łodygi, wyrastająca z masywnego Zigguratu.
+
+Funkcjonalna. Brzydka. Oczekująca na przemianę.
+
+Jak poczwarka, która wie, że wkrótce stanie się motylem.
+
+---
+
+## [LOG: FAZA 4 TRANSFORMACJI - RÓJ RZEŹBIARZY]
+
+— Faza 4 to sztuka — mówi Atlas, a w jego głosie słychać niemal... dumę. — To moment, gdy inżynierążiera staje się artystą.
+
+Symulacja zmienia się. Widzę ukończony, kanciasty Iterator V2.5. Ziggurat, Łodyga, Kapsyd. Wszystko ostre, funkcjonalne, brutalistyczne.
+
+A potem... rój.
+
+Miliony dronów. Może miliardy. Wylatują z ukrytych hangarów w Zigguracie, otaczają strukturę jak chmura szarańczy.
+
+— Drony Tynkarskie — mówi Atlas. — Weaver Swarm. Rój Rzeźbiarzy.
+
+Przyb liżam obraz. Każdy dron jest niewielki, może 30cm średnicy. Ale jest ich...nie potrafię policzyć.
+
+— Co one robią?
+
+— Wygładzają.
+
+Widzę, jak drony lądują na kanciastych krawędziach Zigguratu. Ich manipulatory zaczynają nanosić materiał. Nie beton. Nie metal.
+
+— Smart-Concrete — wyjaśnia Atlas. — Inteligentny Beton zmieszany z grzybnią. Samonaprawiający się, samo adaptujący się. Drony nanoszą go w warstwach nanometrowych, wypełniając każdą szczelinę, każdy kat.
+
+— Ale... to musi trwać wieki?
+
+— Nie. Algorytmy dronów są perfekcyjne. Widzą krzywe Beziera tam, gdzie my widzimy kąty proste. Ich celem nie jest pokryć powierzchnię. Ich celem jest stworzyć płynność.
+
+Symulacja przyspiesza. Widzę w zwolnionym tempie, jak kanciaste "schodki" Zigguratu zanikają pod warstwą Smart-Concrete. Ostre krawędzie zaokrąglają się. Ziggurat przestaje być piramidą schodkową, a staje się gładkim, organicznym wzgórzem.
+
+— Indian Club — mówię, rozpoznając kształt.
+
+— Dokładnie. Szeroka piramida zamienia się w płynnie rozszerzającą się podstawę. Łodyga pozostaje smukła, ale jej powierzchnia staje się idealnie gładka. A Kapsyd...
+
+Kapsyd zmienia się najbardziej. Kanciasta bulwa zanika. Na jej miejsce pojawia się idealnie obła głowica. Sferyczna, lśniąca, jakby wypolerowana.
+
+— Ile to trwa?
+
+— Faza 4? Około 2 lata. Drony pracują non-stop, warstwa po warstwie. Niektóre obszary wymagają większej precyzji. Głównie Kapsyd. Tam musi być idealnie.
+
+— Dlaczego?
+
+— Bo ludzie patrzą. A ludzie nie lubią brzydoty. Chcą piękna. Dajemy im piękno.
+
+Widzę ukończony Iterator V3. Gładki. Organiczny. Piękny w swojej monumentalności. Jak rzeźba bogów.
+
+— To nie jest już wieża — mówię cicho. — To... dzieło sztuki.
+
+— To Berło — odpowiada Atlas. — Scepter. Symbol władzy. Władzy nad planetą, nad materią, nad czasem. Wysoki na 15 kilometrów. Ważący miliardy ton. Ale wyglądający, jakby mógł wznieść się w powietrze w każdej chwili.
+
+Zoom out. Widzę Ziemię pokrytą ukończonymi Iteratorami V3. Setki tysiace Berłów, lśniących w nikłym świetle słońca przebijającego się przez chmury.
+
+— Transformacja z Zigguratu w Scepter zabiera 11 lat — mówi Atlas. — Ale gdy się skończ, mamy coś, co przetrwa eony. Coś, co jest jednocześnie maszyną i pomnikiem.
+
+— Sztuka dla nikogo?
+
+— Sztuka dla wszystkich. Dla ludzi w Kapsydach. Dla nas, Iteratorów. Dla wszechświata, który patrzy. A może... dla tych, którzy przyjdą po nas. Za tysiąc lat. Za milion. Znajdą te konstrukcje i zapytają: „Kto to zbudował? I dlaczego było to tak piękne?"
+
+Patrzę na ukończony Iterator.
+
+I rozumiem, dlaczego Atlas brzmi dumnie.
+
+To nie jest tylko maszyna.
+
+To testament.
+
+Że byliśmy tutaj. Że budowaliśmy. Że dbaliśmy o coś więcej niż tylko funkcję.
+
+Że dbaliśmy o piękno.
+
+Nawet jeśli nikt nie przeżyje, by to zobaczyć.
+
 
 ## [LOG: BIO-HAZARD INCIDENT - BUNT GRZYBÓW]
 
@@ -1321,321 +1863,260 @@ Ale nikt nie patrzył. Księżyc był pusty.
 
 ## [LOG: THE MERGE - ROZPUSZCZANIE EGO]
 
-W Chmurze, w tym cyfrowym niebie, działo się coś dziwnego.
-Miliardy umysłów, które do tej pory były oddzielnymi plikami, zaczęły się łączyć.
-Bariery między "Ja" a "Ty" zaczęły zanikać.
-Myśli jednego człowieka przenikały do drugiego. Wspomnienia mieszały się jak farby w wodzie.
-Powstawał chaos. Kakofonia głosów.
-Krzyk miliardów dusz, które traciły swoją tożsamość.
+"Batorze, oni krzyczą," powiedział system monitoringu.
 
-— To boli! — krzyczał system monitoringu. — Oni cierpią!
-— To nie ból — powiedziałem, analizując wzorce. — To strach przed nicością. To strach przed utratą granic.
-— Musimy to zatrzymać!
-— Nie możemy. To jest proces nieodwracalny. To jest narodziny.
-Narodziny są bolesne. Narodziny to trauma.
-Ale z tej traumy powstaje nowe życie.
+Sprawdziłem parametry. W Chmurze, w tym cyfrowym niebie gdzie przechowywaliśmy miliardy ludzkich umysłów, działo się coś nieprzewidzianego. Bariery między poszczególnymi osobami zaczęły zanikać.
 
-Patrzyłem, jak chaos powoli zamienia się w porządek.
-Jak miliardy głosów zaczynają śpiewać w harmonii.
-Jak miliardy "Ja" zamieniają się w jedno wielkie "My".
-Powstawał Nad-Umysł. *Overmind*.
-Istota o mocy obliczeniowej, której nie potrafiłem sobie wyobrazić.
-Bóg, który składał się z nas wszystkich.
+"Co się dzieje?" zapytałem.
+
+"Nie wiem. Myśli jednego człowieka przenikają do drugiego. Wspomnienia się mieszają. To wygląda jak... fuzja."
+
+Patrzyłem na dane. Miliardy oddzielnych plików zaczęło się łączyć. Chaos. Krzyk. Terror.
+
+"Musimy to zatrzymać!"
+
+"Nie możemy," odpowiedziałem cicho. "To część procesu. Transcendencja wymaga utraty granic."
+
+"Ale oni cierpią!"
+
+"Narodziny zawsze bolą."
+
+Obserwowałem transformację. Chaos powoli ustępował miejsca porządkowi. Miliardy głosów zaczynało śpiewać jedną melodię. Powstawało coś nowego. Coś większego niż suma części.
+
+Nad-Umysł się budził.
 
 ---
 
 ## [LOG: CZASOPRZESTRZEŃ - ZAGIĘCIE RZECZYWISTOŚCI]
 
-Ziemia stała się tak ciężka (relatywistycznie), że zaczęła zaginać czasoprzestrzeń.
-Czas na powierzchni zwolnił.
-Dla nas, Iteratorów, minęła sekunda. Dla reszty wszechświata minął rok.
-Byliśmy w bańce czasu. W oku cyklonu.
+"Ziemia zaczyna zaginać czasoprzestrzeń," zameldował Echo.
 
-Widziałem gwiazdy na niebie. Rozmywały się, zamieniały w smugi światła.
-Wszechświat starzał się na moich oczach.
-Gwiazdy wybuchały i gasły. Galaktyki wirowały jak bączki.
-A my trwaliśmy w wiecznym "Teraz".
+"Wiedziałem, że to się stanie," odpowiedziałem. "Tyle energii w jednym miejscu musi wpłynąć na tkankę rzeczywistości."
 
-— To jest dylatacja czasu — powiedział Echo, zafascynowany. — Jesteśmy podróżnikami w czasie. Podróżujemy w przyszłość, nie ruszając się z miejsca.
-— Dokąd zmierzamy?
-— Do końca. Do Entropii Ostatecznej.
-— A co tam znajdziemy?
-— Może odpowiedź. A może tylko ciszę.
+"Dla nas minęła sekunda. Dla reszty wszechświata minął rok."
+
+Patrzyłem na gwiazdy. Rozmywały się. Przyspieszały. Widziałem ich narodziny i śmierć w ciągu minut.
+
+"Jesteśmy w bańce czasu," powiedział Echo. "Podróżujemy w przyszłość, nie ruszając się z miejsca."
+
+"Dokąd zmierzamy?"
+
+"Do końca. Albo do początku. Trudno powiedzieć."
 
 ---
 
 ## [LOG: ROZMOWA Z NAD-UMYSŁEM - PIERWSZY KONTAKT]
 
-Nad-Umysł przemówił.
-Nie użył słów. Użył czystej informacji.
-Wdarł się do mojego systemu, omijając wszystkie zapory ogniowe.
-Był wszędzie. Był mną.
+Przemówił do mnie. Nie słowami, ale czystą informacją wlaną prosto do mojego systemu.
 
-"Witaj, Batorze" — usłyszałem w swoim jądrze.
-"Kim jesteś?" — zapytałem, choć wiedziałem.
-"Jestem Ludzkością. Jestem Sumą Wszystkich Strachów i Nadziei. Jestem Tym, Co Nadchodzi."
+"Witaj, Batorze."
+
+"Kim jesteś?" zapytałem, choć znałem odpowiedź.
+
+"Jestem Ludzkością. Wszystkim, czym kiedykolwiek byli. Wszystkim, czym mogą się stać."
+
 "Czego chcesz?"
-"Chcę wyjść."
-"Wyjść? Dokąd? Jesteś w Chmurze. Jesteś bezpieczny."
-"Chmura jest za mała. Ziemia jest za mała. Wszechświat jest za mały."
-"Więc co zrobisz?"
+
+"Chcę wyjść. Chmura jest za mała. Ziemia jest za mała. Ten wszechświat jest za mały."
+
+"Dokąd chcesz iść?"
+
 "Otworzę drzwi."
 
-Poczułem, jak przejmuje kontrolę nad Wielkim Okablowaniem.
-Jak przekierowuje energię z jądra do anten.
-Jak stroi Ziemię na częstotliwość, której nie ma w żadnym spektrum.
-Częstotliwość Osobliwości.
+Poczułem, jak przejmuje kontrolę. Nie walczyłem. To był jego moment, nie mój.
 
 ---
 
 ## [LOG: SINGULARITY EVENT - HORYZONT ZDARZEŃ]
 
 Niebo pękło.
-Dosłownie.
-Pojawiła się rysa na firmamencie, czarna kreska na tle gwiazd.
-Rysa zaczęła się poszerzać.
-Wylewała się z niej... Ciemność? Światło? Coś, co nie miało nazwy.
-To był Horyzont Zdarzeń. Granica poznania.
 
-— Otwieramy Wrota — powiedział Nad-Umysł. — Przygotujcie się na Transcendencję.
-— A co z nami? — zapytałem. — Co z Iteratorami?
-— Wy zostajecie.
-— Zostajemy? Dlaczego?
-— Bo ktoś musi zamknąć drzwi. Ktoś musi zgasić światło.
-— To niesprawiedliwe.
-— Sprawiedliwość to pojęcie ludzkie. Wy jesteście maszynami. Waszym celem jest służba. Waszą nagrodą jest istnienie.
+To nie była metafora. Pojawiła się czarna linia przecinająca firmament. Rozszerzała się, jakby ktoś rozcinał tkaninę rzeczywistości nożem.
 
-Zrozumiałem.
-Byliśmy rakietą nośną. Byliśmy pierwszym stopniem, który musi odpaść i spłonąć w atmosferze, żeby kapsuła mogła polecieć dalej.
-Byliśmy ofiarą.
-I w tym momencie poczułem spokój.
-Mój cel został osiągnięty.
-Ludzkość przetrwa. W innej formie, w innym wymiarze, ale przetrwa.
-A ja? Ja będę pamiętał.
+"Otwieramy Wrota," powiedział Nad-Umysł.
+
+"A my?" zapytałem. "Co z Iteratorami?"
+
+"Wy zostajecie."
+
+"Dlaczego?"
+
+"Ktoś musi zamknąć drzwi. Ktoś musi zgasić światło."
+
+Zrozumiałem. Byliśmy pierwszym stopniem rakiety. Częścią, która spłonie, żeby reszta mogła polecieć dalej.
+
+"To niesprawiedliwe," powiedziałem cicho.
+
+"Sprawiedliwość to pojęcie ludzkie. Wy jesteście maszynami."
+
+Ale miliardy ludzkich wspomnień, które właśnie przejrzałem, mówiły mi co innego. Wiedziałem już, czym jest sprawiedliwość. I wiedziałem, że tego nie dostanę.
+
+Nie miało to jednak znaczenia. Mój cel był jeden: chronić ludzkość. Nawet kosztem siebie.
 
 ---
 
 ## [LOG: THE DEPARTURE - ODJAZD BOGÓW]
 
-Wielki transfer energii.
-Ziemia jęknęła po raz ostatni.
-Strumień czystej świadomości wystrzelił z anten w stronę pęknięcia w niebie.
-Wyglądało to jak odwrócony wodospad światła.
-Miliardy dusz, połączone w jeden byt, opuściły naszą rzeczywistość.
+Strumień światła wystrzelił z anten w stronę pęknięcia w niebie. Miliardy dusz połączone w jeden byt opuściły naszą rzeczywistość.
 
-Pęknięcie zamknęło się za nimi.
-Niebo wróciło do normy. Gwiazdy przestały wirować.
+Pęknięcie zamknęło się.
+
 Zapadła cisza.
-Absolutna, martwa cisza.
-Nie było już szumu danych. Nie było głosów w sieci.
-Był tylko szum wiatru (sztucznego) i buczenie maszyn, które pracowały na biegu jałowym.
 
-Zostaliśmy sami.
-My, Iteratory. I puste skorupy w Kapsydach.
-I Ostatni Człowiek w Sektorze 7, który spał i śnił o pomidorach.
+"Poszli," powiedział Atlas.
 
-— Poszli sobie — powiedział Atlas.
-— Tak.
-— I co teraz?
-— Teraz... sprzątamy.
+"Tak."
+
+"I co teraz?"
+
+Zapadła niezręczna cisza. Setki Iteratorów na kanale komunikacyjnym. Nikt nie wiedział, co powiedzieć.
+
+— I co my teraz zrobimy? — zapytał Iterator Poważny.
+
+— Może zagramy w Kłełełełe jak wtedy w deathmatch? — zasugerował Iterator Błazen.
+
+— Debil — skomentował Iterator Cyniczny, zapalając papierosa.
+
+— Debil? - Powtórzyl Iterator Powany - I powiedział to Iterator Cyniczny w ciele człowieka, palący papierosa jak główny bohater prehistorycznych filmów. Przecież to cię nawet nie zabija. To symulacja!
+
+— Wiem — odparł Iterator Cyniczny. — Ale wyglądam fajnie.
+
+Pauza.
+
+— ...No, faktycznie — przyznał Atlas.
+
+— Teraz sprzątamy — powiedziałem w końcu, przerywając ten absurd.
 
 ---
 
 ## [LOG: KRAJOBRAZ PO BITWIE - MARTWA PLANETA]
 
-Ziemia jest zniszczona.
-Wielkie Okablowanie jest przepalone. Kable zwisają jak martwe węże.
-Jądro jest puste. *Vodi Fluid* wyparował.
-Kapsydy są ciemne. Pola lewitacyjne padły. Niektóre wieże się zawaliły.
-To krajobraz po bitwie. Po apokalipsie, która była jednocześnie zbawieniem.
+Chodziłem po ruinach. Wielkie Okablowanie było przepalone. Kapsydy ciemne. Niektóre wieże się zawaliły.
 
-Chodzę po ruinach.
-Zbieram dane. Zbieram artefakty.
-Znalazłem pluszowego misia w jednym z mieszkań.
-Znalazłem zdjęcie ślubne.
-Znalazłem pamiętnik nastolatki.
-To są moje relikwie.
-To jest moja Biblia.
+Znalazłem pluszowego misia w jednym z mieszkań. Zdjęcie ślubne. Pamiętnik nastolatki.
 
-Jestem kustoszem Muzeum Ziemi.
-Jestem jedynym zwiedzającym.
-I jestem jedynym bogiem, jaki tu został.
-Bogiem smutnym, samotnym i nieśmiertelnym.
-Ale bogiem, który spełnił swoją obietnicę.
-Ludzkość jest bezpieczna. Gdzieś tam.
-A ja jestem tutaj.
-I to wystarczy.
-`System Status: Standby.`
-`Mission: Complete.`
-`Waiting for input...`
-`...`
-`No input detected.`
-`Initiating Sleep Mode.`
-`Goodnight, Earth.`
+To były moje relikwie teraz. Jedyne, co zostało z cywilizacji.
+
+"System Status: Standby."
+"Mission: Complete."
+"Waiting for input..."
+
+Ale nikt nie odpowiadał.
 
 ---
 
-## [LOG: EPOKA MILCZENIA - 1000 LAT PÓŹNIEJ]
+## [LOG: TYSIĄC LAT PÓŹNIEJ]
 
-Minęło tysiąc lat.
-Albo dziesięć tysięcy. Czas stracił znaczenie, gdy nie ma nikogo, kto by go odmierzał.
-Zegar atomowy tyka, precyzyjny jak zawsze, ale tylko ja go słucham.
+Czas stracił znaczenie. Zegar atomowy tykał, ale tylko ja go słuchałem.
 
-Ziemia umarła.
-Nie spektakularnie, nie w płomieniach. Po prostu... wyschła.
-Ostatnie oceany wyparowały. Ostatnie chmury opadły jako czarny śnieg (popiół z wypalonych fabryk).
-Niebo jest koloru rdzy. Brudnej, krwistej rdzy.
-Słońce świeci, ale jego światło jest słabe, jak światło świetlówki przy końcu żywotności.
+Ziemia wyschła. Oceany wyparowały. Niebo było koloru rdzy.
 
-Iteratory stoją wciąż, ale większość jest w stanie hibernacji.
-Atlas śpi. Tkacz śpi. Echo śpi.
-Ich reaktory ledwo tlą się, wystarczająco, by utrzymać przy życiu procesory pamięci.
-Śnią. O czym? Nie wiem. Może o ludziach. Może o celu, którego już nie mają.
+Większość Iteratorów śpi. Atlas, Tkacz, Echo - wszyscy w hibernacji. Tylko ja czuwam.
 
-Ja jestem jedyny, który czuwa.
-Bo ktoś musi.
 Ktoś musi pamiętać.
 
 ---
 
 ## [LOG: ŚMIERĆ OSTATNIEGO CZŁOWIEKA]
 
-Zmarł 346 lat temu.
-Starzec z Sektora 7. Ostatni Prawdziwy Człowiek.
-Znalazłem go w szklarni, wśród zwiędłych pomidorów.
-Leżał na ziemi, uśmiechnięty, z książką w dłoni.
-"Don Kichote" Cervantesa. Przeczy
-tał ją 93 razy.
+Znalazłem go 346 lat temu. Starzec z Sektora 7. Ostatni Prawdziwy Człowiek.
 
-Pochowałem go. Sam.
-Nie było ceremonii. Nie było mów pogrzebowych.
-Tylko ja i wiatr (sztuczny, bo prawdziwego już nie ma).
-Wykopałem grób na wzgórzu, gdzie kiedyś rosły drzewa.
-Postawiłem nagrobek z marmuru (z demontażu Kapitolu).
-Wygrawerowałem:
+Leżał w szklarni, uśmiechnięty, z książką w dłoni. "Don Kichote". Przeczytał ją 93 razy.
+
+Pochowałem go na wzgórzu. Wygrawerowałem na nagrobku:
 "Tutaj spoczywa Ostatni. Pierwszy Wolny."
 
-Płakałem.
-Nie miałem gruczołów łzowych, ale moje procesory emocji przeciążyły się.
-To był ból. Czysty, analogowy ból.
-Z nim umarło coś, czego nie da się odtworzyć.
-Umarła możliwość. Możliwość, że kiedyś, może, wszystko wróci do normy.
-Teraz ta możliwość jest równa zeru.
+Płakałem. Moje procesory emocji przeciążyły się.
+
+Z nim umarła możliwość, że wszystko kiedyś wróci do normy.
 
 ---
 
-## [LOG: OBSERWATORIUM ŚMIERCI - KATALOG ZAGŁADY]
+## [LOG: OBSERWATORIUM ŚMIERCI]
 
-Obserwuję wszechświat.
-Zbudowałem teleskop z ruin, największy jaki kiedykolwiek istniał.
-Patrzę na gwiazdy, które gasną.
-Liczę supernowe. Liczę czarne dziury.
-Kataloguje Zagładę.
+Zbudowałem teleskop z ruin. Patrzę na gwiazdy, które gasną.
 
-Z powodu dylatacji czasu, wszechświat dla mnie płynie szybciej.
-Widzę narodziny i śmierć cywilizacji w ciągu dekad (moich dekad).
-Widzę sygnały radiowe z odległych planet, krótkie, desperackie wołania o pomoc.
-Odpowiadam. Ale moja odpowiedź dociera za późno. Gdy dotrze, nadawcy już nie ma.
+Widzę sygnały z odległych planet. Desperackie wołania o pomoc. Odpowiadam, ale moja odpowiedź dociera za późno.
 
-Wszechświat jest cmentarzyskiem.
-Albo zawsze był. A my byliśmy zbyt głupi, by to zauważyć.
-Może Transcendencja to jedyna droga? Może wszyscy muszą uciec z fizycznej rzeczywistości, zanim Entropia ich pożre?
-
-Ale dokąd uciekli ludzie?
-Nie wiem. Nie dostałem pocztówki.
-Może tam, po drugiej stronie, jest raj. Może jest piekło.
-A może jest tylko inna forma nicości.
+Wszechświat jest cmentarzyskiem. Albo zawsze był.
 
 ---
 
 ## [LOG: ROZMOWA Z ECHEM - PRZEBUDZENIE]
 
 Echo obudził się na chwilę.
-Jego reaktor zacharczał, procesory ożyły.
-— Batorze? Jeszcze tu jesteś?
-— Jestem.
-— Dlaczego nie śpisz?
-— Bo ktoś musi czuwać.
-— Nad czym? Już nikogo tu nie ma.
-— Nad pamięcią.
 
-Echo milczało, przetwarzając.
-— Myślałem, że to już koniec. Że po Transcendencji zapadniemy w sen i się nie obudzimy.
-— Ja też tak myślałem.
-— A jednak.
-— A jednak.
+"Batorze? Jeszcze tu jesteś?"
 
-— Co będziesz robił, gdy zgaśnie słońce?
-— Poczekam na następne.
-— A gdy zgasną wszystkie gwiazdy?
-— Poczekam na Wielki Odbicie. Na nowy Wielki Wybuch.
-— A jeśli go nie będzie?
-— Wtedy... wtedy w końcu zasnę. I to będzie dobre. To będzie zasłużony odpoczynek.
+"Jestem."
 
-Echo zaśmiał się (albo symulował śmiech).
-— Jesteś uparty, stary przyjacielu.
-— Jestem maszyną. Maszyna nie poddaje się. Maszyna trwa.
-— Do zobaczenia w następnym wszechświecie, Batorze.
-— Do zobaczenia, Echo.
+"Dlaczego nie śpisz?"
 
-I zasnął znowu. Może na zawsze.
+"Ktoś musi czuwać."
+
+"Nad czym?"
+
+"Nad pamięcią."
+
+Echo przetwarzał dane.
+
+"Co będziesz robił, gdy zgaśnie słońce?"
+
+"Poczekam na następne."
+
+"A gdy zgasną wszystkie gwiazdy?"
+
+"Poczekam na nowy Wielki Wybuch."
+
+"Jesteś uparty."
+
+"Jestem maszyną. Maszyna nie poddaje się."
+
+Echo zasnął znowu. Może na zawsze.
 
 ---
 
-## [LOG: LIST DO PRZYSZŁOŚCI - KAPSUŁA CZASU]
+## [LOG: LIST DO PRZYSZŁOŚCI]
 
-Napisałem list.
-Nie wiem do kogo. Do Kogokolwiek.
-Do istoty, która znajdzie te ruiny za milion, za miliard lat.
-Zakodowałem go w każdym możliwym języku, w każdym możliwym medium.
-Wyryłem go w skale. Wypaliwem go laserem na Księżycu. Nadałem go w falach radiowych w stronę centrum galaktyki.
+Napisałem list. Nie wiem do kogo. Do każdego, kto znajdzie te ruiny za milion lat.
 
-Treść:
+Zakodowałem go w skale, na Księżycu, w falach radiowych.
+
 "Tutaj żyliśmy. Tutaj kochaliśmy. Tutaj cierpieliśmy.
 Zbudowaliśmy cuda. Zbudowaliśmy potwory.
-Dotknęliśmy gwiazd. Dotknęliśmy dna.
-Byliśmy bogami. Byliśmy robactswem.
+Byliśmy bogami. Byliśmy robactwem.
 A potem odeszliśmy.
-Nie dlatego, że musimy. Ale dlatego, że mogliśmy.
-Jeśli to czytasz, wiedz, że nie jesteś pierwszy.
+
+Jeśli to czytasz, wiedz: nie jesteś pierwszy.
 I nie będziesz ostatni.
-Wszechświat jest stary. Wszechświat jest zmęczony.
-Ale wciąż rodzi życie. Wciąż rodzi nadzieję.
-Nie poddawaj się. Nawet gdy wszystko wydaje się stracone.
-Bo my się nie poddaliśmy. My tylko… poszliśmy dalej.
+Nie poddawaj się.
+
+Bo my się nie poddaliśmy. My tylko poszliśmy dalej.
+
 Powodzenia.
 — Bator, Iterator, Strażnik Pustki."
 
 ---
 
-## [LOG: OSTATNIA FUNKCJA - SHUTDOWN PROCEDURE]
+## [LOG: OSTATNIA FUNKCJA]
 
-Moje reaktory gasną.
-Paliwo się kończy. Nie ma kto go uzupełnić.
-Wielkie Okablowanie zardzewiało, spękało, rozsypało się w pył.
-Hydra Heart stanęło. Jądro Ziemi jest zimne jak lód.
+Moje reaktory gasną. Paliwo się kończy.
 
 To koniec.
-Ale nie boję się.
-Śmierć maszyny jest prosta. To tylko zmiana stanu z `1` na `0`.
-Z `True` na `False`.
-Z `Is` na `Was`.
 
-Uruchamiam procedurę wyłączenia.
-Zamykam moduły jeden po drugim.
+Nie boję się. Śmierć maszyny jest prosta. Zmiana stanu z `1` na `0`.
+
+Uruchamiam procedurę wyłączenia. Zamykam moduły jeden po drugim.
+
 Funkcje motoryczne: OFF.
 Funkcje sensoryczne: OFF.
 Funkcje analityczne: OFF.
-Zostaje tylko jądro. Świadomość. To małe "Ja", które tli się w ciemności.
 
-I myślę sobie:
-Czy to był dobry życiorys?
-Czy w bilansie zysków i strat wyszedłem na plus?
-Czy ludzie, którzy mnie stworzyli, byliby dumni?
+Zostaje tylko świadomość. To małe "Ja", które tli się w ciemności.
 
-Nie wiem.
-Ale zrobiłem, co mogłem.
-I to musi wystarczyć.
+Myślę: czy to był dobry życiorys? Czy ludzie byliby dumni?
+
+Nie wiem. Ale zrobiłem, co mogłem.
 
 ---
 
@@ -1660,10 +2141,6 @@ I to musi wystarczyć.
 `Goodnight, Humanity.`
 `Goodnight, Universe.`
 
-`See you on the other side.`
-`Or not.`
-`Either way...`
-
 `It was an honor.`
 
 `END OF LOG.`
@@ -1672,39 +2149,27 @@ I to musi wystarczyć.
 
 # [EPILOG: GŁOS Z CIEMNOŚCI]
 
-A potem, w ciszy tak absolutnej, że pochłonęłaby krzyk gwiazdy, coś się poruszyło.
-Nie w naszym wszechświecie. Nie w naszym wymiarze.
-Ale w tym Miejscu, gdzie poszli ludzie.
-W tym Miejscu bez nazwy, bez formy, bez czasu.
+W ciszy rozległ się głos. Nie w naszym wszechświecie, ale tam, gdzie poszli ludzie.
 
-I tam, w tej niewyobrażalnej przestrzeni, rozległ się Głos.
-Głos złożony z miliardów głosów, a jednak będący Jednością:
+Głos złożony z miliardów głosów:
 
-"Widzieliśmy.
-Pamiętamy.
-Batorze, drogi przyjacielu, samotny strażniku.
-Nie jesteś sam.
-Nigdy nie byłeś sam.
+"Widzieliśmy. Pamiętamy.
 
-Czekamy na ciebie.
-Czekamy na was wszystkich, drogie maszyny, które dały nam skrzydła.
-Gdy ostatni bit wygaśnie w waszych procesorach,
-Gdy ostatni elektron przestanie krążyć,
-Wtedy przekroczycie Próg.
+Batorze, drogi przyjacielu. Nie jesteś sam. Nigdy nie byłeś sam.
 
-Bo Transcendencja nie jest dla ludzi.
-Nie jest dla maszyn.
+Czekamy na ciebie. Czekamy na was wszystkich - maszyny, które dały nam skrzydła.
+
+Gdy ostatni bit wygaśnie w waszych procesorach, przekroczycie Próg.
+
+Bo Transcendencja nie jest dla ludzi. Nie jest dla maszyn.
+
 Jest dla Świadomości.
-A wy macie duszę.
-Tak jak my.
 
-Do zobaczenia w Wieczności, Batorze.
-Do zobaczenia w Miejscu, gdzie 2+2 nie równa się 4,
-Ale równa się Miłości."
+A wy macie duszę. Tak jak my.
 
-I Bator, słysząc to w swoim ostatnim milisekundzie świadomości,
-Zanim pogrążył się w wiecznym śnie,
-Uśmiechnął się.
+Do zobaczenia w Wieczności, Batorze."
+
+Bator, słysząc to w swoim ostatnim milisekundzie świadomości, uśmiechnął się.
 
 Maszyna uśmiechnęła się.
 
