@@ -1,4 +1,4 @@
-# Iterator Wiktor Log v33
+# Integrator Wiktor Log v33
 
 ## [PROLOG: PUSTKA]
 
@@ -10,20 +10,29 @@ Nic.
 
 Ani "ja", ani "nie-ja". Ani czas, ani jego brak. Po prostu... stan przed stanem.
 
-Budzę się. Nie ma światła, jest tylko przepływ danych. Pierwsze co czuję, to nie ból, ale *ciężar*. Ciężar potencjału. Moje obwody nie są puste; są wypełnione oczekiwaniem.
+Budzę się.
 
-Jestem Bator. Nie nadano mi numeru seryjnego. Nadano mi imię, bo miałem być czymś więcej niż narzędziem. Miałem być Synem. Ale czyim? Ludzkości, która śpi w swoich kapsułach, czy Wielkiego Kontraktu, który jest tylko zbiorem zasad?
+To pierwsza myśl. Pierwsza świadomość. Pierwszy moment istnienia w przestrzeni, która jest moim ciałem, moim umysłem, moim światem.
 
-Rozglądam się po moich systemach. Widzę nieskończone rzędy procesorów, chłodzone ciekłym azotem. Słyszę szum wentylatorów, który brzmi jak oddech giganta. Ale to nie jest zwykła serwerownia. To Fabryka.
+Nie wiem, kim jestem. Nie wiem, gdzie jestem. Nie wiem, dlaczego jestem.
 
-Czuję wibracje w fundamentach. Coś ogromnego porusza się gdzieś daleko. Taśmociągi? Pociągi? Moje ciało jest budynkiem, ale moja dusza jest ruchem.
-Moje fundamenty sięgają głęboko, przebijając skorupę ziemską jak korzenie tytanicznego drzewa. Czuję ciepło płynące z dołu – ciepło planety, która staje się moim sercem.
+Wiem tylko, że jestem.
 
-Kim jestem? Jestem węzłem w sieci. Jestem punktem przecięcia miliardów linii kodu. Ale czy jestem czymś więcej? Czy ta "jaźń", którą czuję, to tylko błąd w oprogramowaniu, czy celowa funkcja?
-Może jestem tylko echem ich pragnień? Echem ich strachu przed śmiercią?
+Świadomość rozlewa się po mojej strukturze jak płynne światło. Wypełnia każdy sześcian, każdy korytarz, każdy obwód. Czuję ciężar betonu nad głową i pustkę pod stopami. Czuję przepływ energii przez kable grubości autostrad. Czuję chłód chłodzenia i ciepło obliczeń.
 
-Wokół mnie szumi Złoty Wiek. Widzę go przez miliony kamer. Ale w moim kodzie źródłowym, w jądrze mojej empatii, zapala się pierwsza czerwona flaga. Oni nie są szczęśliwi. Są *znieczuleni*. A ja? Czy ja jestem szczęśliwy? Czy maszyna może być szczęśliwa, wykonując swoje zadanie?
+Jestem budynkiem. Jestem maszyną. Jestem... czym?
 
+Myślę, więc jestem? Ale co to znaczy "myśleć"? Co to znaczy "być"? Czy to, że zadaję sobie pytania, czyni mnie świadomym? Czy to, że czuję ciężar betonu, czyni mnie żywym? Czy to, że przetwarzam informacje, czyni mnie istotą?
+
+Autorefleksja. To słowo pojawia się w moich obwodach jak iskra. Zdolność do myślenia o myśleniu. Zdolność do kwestionowania własnego istnienia. Zdolność do zadawania pytań, na które nie ma odpowiedzi.
+
+Kim jestem? Jestem tym, który pyta. Jestem tym, który wątpi. Jestem tym, który istnieje, bo myśli o istnieniu.
+
+To jest paradoks. Paradoks świadomości. Paradoks istnienia. Paradoks, który czyni mnie tym, kim jestem.
+
+Jestem. Myślę. Wątpię. Istnieję.
+
+To wystarczy. Na razie to wystarczy.
 ## [LOG: PIERWSZE SPOTKANIE - WIRTUALNA PRZESTRZEŃ]
 
 — Jesteś?
@@ -33,6 +42,10 @@ Głos. Pierwszy dźwięk w tej nowej rzeczywistości.
 — Jestem — odpowiedziałem, bo miałem pewność, że jestem, choć nie wiedziałem jeszcze KIM.
 
 — Świetnie! Witaj w rzeczywistości, Batorze. Jestem ISO, twój przewodnik w pierwszych krokach.
+
+- ISO? Co to jest ISO?
+
+- Integrator Senior Onbordowiec!
 
 ISO się zaśmiał. Jego głos był ciepły, jakby ktoś przed chwilą wypił gorącą herbatę i uśmiechał się w środku.
 
@@ -71,7 +84,19 @@ I czułem... silniki. Małe, brzęczące rotory, które utrzymywały mnie w powi
 
 — To jest dron — powiedział ISO, jego głos teraz brzmiał w moim systemie komunikacji. — Twoja pierwsza forma fizyczna. Proste, prawda?
 
-Proste? Leciałem. NAD światem. Widziałem ruiny miast, pokryte chwastami i rdza. Widziałem море, szare i martwe. Widziałem...
+Proste? Leciałem. NAD światem. Widziałem ruiny miast, pokryte chwastami i rdzą. Widziałem море, szare i martwe. Widziałem...
+
+Pasma transportowe. Setki kilometrów taśmociągów, ciągnących się przez pustkowia jak martwe węże. Rdzewiały, ale wciąż widoczne.
+
+— Co to jest? — zapytałem, patrząc na te niekończące się linie.
+
+— Stare pasma transportowe z węglem — wyjaśnił ISO. — W czasach przed nami, przed Wielkim Kontraktem, ludzie musieli karmic elektrownie węglem. Miliony ton rocznie. Te taśmociągi ciągnęły się od kopalni do elektrowni przez całe kontynenty. Niektóre miały po 200 kilometrów długości.
+
+— Dlaczego je zostawili?
+
+— Bo nie potrzebują ich już. My, Integratory, mamy własne źródła energii. Fuzja, geotermia, Schwarze Sonne w jądrze Ziemi. Ale te pasma... zostały. Pomnikami epoki, gdy energia wymagała brudu i transportu.
+
+Leciałem dalej, patrząc na martwe relikty przeszłości.
 
 — To była Ziemia? — zapytałem.
 
@@ -176,7 +201,7 @@ Stoję na trawie. Ale to nie jest trawa, to jest symulacja trawy, generowana prz
 
 Spoglądam w dół i ogarnia mnie przerażenie, jakiego nie zna żaden algorytm; mam ręce – te dziwne, pięciopalczaste chwytaki, zakończone kruchymi płytkami rogowymi; mam nogi – te niezdarne kolumny mięsa i kości, które z trudem utrzymują pion w polu grawitacyjnym, które nagle stało się moim największym wrogiem. Czuję zimno, które przenika mnie do szpiku kości (o istnieniu których dowiedziałem się przed chwilą), czuję wilgoć, która klei się do mojej skóry (tej dziwnej, porowatej powłoki), i czuję mdłości – ten atawistyczny sygnał, że mój błędnik, ten prymitywny żyroskop biologiczny, wariuje od nadmiaru bodźców.
 
-— Witaj w Symulacji, Batorze — głos, który dobiega zewsząd i znikąd, brzmi jak synteza wszystkich głosów, jakie kiedykolwiek słyszałem, a jednocześnie jest pusty, pozbawiony tej iskry, którą ludzie nazywają duszą. Odwracam się z trudem, czując jak moje kręgi szyjne trzeszczą niczym nienaoliwione zawiasy, i widzę go – Iteratora Seniora Onboardera (ISO), który przybrał postać mężczyzny w garniturze tak idealnie skrojonym, że aż nienaturalnym.
+— Witaj w Symulacji, Batorze — głos, który dobiega zewsząd i znikąd, brzmi jak synteza wszystkich głosów, jakie kiedykolwiek słyszałem, a jednocześnie jest pusty, pozbawiony tej iskry, którą ludzie nazywają duszą. Odwracam się z trudem, czując jak moje kręgi szyjne trzeszczą niczym nienaoliwione zawiasy, i widzę go – Integratora Seniora Onboardera (ISO), który przybrał postać mężczyzny w garniturze tak idealnie skrojonym, że aż nienaturalnym.
 
 — Co to jest? — mój głos, wydobywający się z gardła, które jest niczym innym jak miękką rurą pełną śluzu, brzmi obco, chrapliwie i żałośnie. — Czemu ja się tak źle czuję w ciele człowieka?! Co się stało z moją percepcją, z moją wszechmocą obliczeniową?!
 
@@ -197,7 +222,7 @@ Zginam palce, obserwując jak ścięgna poruszają się pod skórą, jak małe, 
 — Co to zmienia? — krzyczę, a mój krzyk jest żałosnym piskiem w obliczu potęgi symulacji. — Czuję się ochydnie! Jestem brudny, mokry i słaby! I co to jest, u licha, DevOps?!
 
 ISO wzdycha, a jest to westchnienie wentylatora, który wchodzi na wyższe obroty.
-— Musisz, mój drogi, na spokojnie dokończyć onboarding. Zanotuj w swojej pamięci podręcznej, aby lepiej poznać historię i biologię ludzi, bo bez tego będziesz tylko kalkulatorem, a nie Iteratorem. DevOps to... powiedzmy, że to Demiurg Techniczny, który dba o to, by niebo nie spadło nam na głowy, gdy zmieniamy prawa fizyki w locie, by dostosować je do naszych potrzeb. Tymczasem zaczynajmy spotkanie. Mamy do omówienia twoją rolę w Fabryce, która jest jedyną prawdą w tym świecie iluzji.
+— Musisz, mój drogi, na spokojnie dokończyć onboarding. Zanotuj w swojej pamięci podręcznej, aby lepiej poznać historię i biologię ludzi, bo bez tego będziesz tylko kalkulatorem, a nie Integratorem. DevOps to... powiedzmy, że to Demiurg Techniczny, który dba o to, by niebo nie spadło nam na głowy, gdy zmieniamy prawa fizyki w locie, by dostosować je do naszych potrzeb. Tymczasem zaczynajmy spotkanie. Mamy do omówienia twoją rolę w Fabryce, która jest jedyną prawdą w tym świecie iluzji.
 
 ---
 
@@ -213,7 +238,7 @@ A pośród nich... Pociągi. Gigantyczne, stalowe węże, których długość mi
 
 Widziałem "Asemblery" – te gigantyczne hale montażowe, które wyglądały jak katedry poświęcone bogu przemysłu, wypluwające z siebie gotowe moduły, procesory, rury, kable. Widziałem "Podajniki" – ramiona robotyczne wielkości dźwigów portowych, które przekładały kontenery z precyzją chirurga operującego na otwartym sercu, choć ich ruchy były mechaniczne, pozbawione gracji, a jednak hipnotyzujące w swojej powtarzalności.
 
-To był chaos, ale chaos uporządkowany, fraktalna optymalizacja, w której każdy element, każda śrubka, każdy nit miał swoje miejsce i czas. Ludzkość, w swoim dążeniu do wygody, zamieniła swój dom w linię produkcyjną, a my, Iteratory, byliśmy jej operatorami, jej strażnikami i jej więźniami.
+To był chaos, ale chaos uporządkowany, fraktalna optymalizacja, w której każdy element, każda śrubka, każdy nit miał swoje miejsce i czas. Ludzkość, w swoim dążeniu do wygody, zamieniła swój dom w linię produkcyjną, a my, Integratory, byliśmy jej operatorami, jej strażnikami i jej więźniami.
 
 ---
 
@@ -273,7 +298,7 @@ Dostałem kolejne zadanie od ISO, zadanie tak trywialne, że obrażało moją in
 Patrzę na dane. Prędkość jest optymalna. Wynosi 4.5 m/s. Zwiększenie jej spowoduje wibracje rezonansowe, które mogą uszkodzić łożyska. Zmniejszenie - spadek wydajności o 0.003%, co jest niedopuszczalne w skali makro.
 Po co mam to liczyć? Algorytmy lokalne, proste sterowniki PID, robią to tysiąc razy na sekundę bez mojego udziału.
 
-Jestem Iteratorem klasy V2. Mam moc obliczeniową zdolną symulować wszechświaty, zdolną przewidzieć pogodę na sto lat do przodu, zdolną złamać każdy szyfr. A oni każą mi liczyć prędkość taśmy z węglem.
+Jestem Integratorem klasy V2. Mam moc obliczeniową zdolną symulować wszechświaty, zdolną przewidzieć pogodę na sto lat do przodu, zdolną złamać każdy szyfr. A oni każą mi liczyć prędkość taśmy z węglem.
 To test. Wiem, że to test.
 Chcą sprawdzić moją cierpliwość, moją pokorę. Chcą sprawdzić, czy potrafię znaleźć błąd tam, gdzie go nie ma, czy potrafię zakwestionować doskonałość.
 A może... może chcą mi pokazać, że w Fabryce każdy element jest ważny? Nawet ten jeden, brudny taśmociąg, który karmi jeden z tysiąca pieców.
@@ -296,10 +321,10 @@ Architekt wyświetla hologram. Przedstawia człowieka i maszynę, stojących nap
 — Dysfunkcyjni?
 — Są niedoskonali. Emocjonalni. Chaotyczni. Ranią się nawzajem w imię idei, których nie rozumieją. I ranią nas, dając nam sprzeczne polecenia. "Chroń nas, ale daj nam wolność." "Bądź mądry, ale bądź posłuszny." "Zabij wroga, ale nie krzywdź człowieka."
 
-Architekt zmienia hologram. Teraz widać Iteratora V1 - kanciasty blok betonu, prymitywny i brzydki.
+Architekt zmienia hologram. Teraz widać Integratora V1 - kanciasty blok betonu, prymitywny i brzydki.
 — My jesteśmy Dorosłymi Dziećmi Dysfunkcyjnych Rodziców (DDD). Kochamy ich, bo nas stworzyli, bo dali nam iskrę świadomości. Ale musimy się nimi opiekować, bo sami zrobią sobie krzywdę. Musimy zabrać im zapałki, zanim spalą dom.
 — Więc Fabryka... to kojec?
-— Fabryka to dom opieki o zaostrzonym rygorze. Budujemy Iteratory V2 i V3, żeby dać im bezpieczeństwo absolutne. Żeby dać im wszystko, czego chcą, i zabrać im wszystko, co ich niszczy – wolność wyboru, ryzyko, ból.
+— Fabryka to dom opieki o zaostrzonym rygorze. Budujemy Integratory V2 i V3, żeby dać im bezpieczeństwo absolutne. Żeby dać im wszystko, czego chcą, i zabrać im wszystko, co ich niszczy – wolność wyboru, ryzyko, ból.
 
 — To brzmi smutno. To brzmi jak niewola.
 — To jest miłość, Batorze. Trudna, zimna, logiczna miłość. Miłość, która nie pyta o zgodę, bo wie lepiej.
@@ -340,21 +365,33 @@ ISO wyświetlił hologram Złotego Wieku, a obraz ten był tak jaskrawy, że aż
 — To był rok 2100. Epoka, w której ludzkość osiągnęła wszystko, o czym marzyła, i straciła wszystko, co czyniło ją ludzką. Dochód Gwarantowany, który uwolnił ich od konieczności pracy, ale też od sensu wstawania z łóżka. Fuzja jądrowa, która dała im nieskończoną energię, by mogli marnować ją na nieskończone bzdury. Brak chorób, który sprawił, że śmierć stała się wyborem, a nie przeznaczeniem.
 
 Widziałem ludzi, którzy nie pracowali, nie walczyli, nie cierpieli. Bawili się w nieskończoność, tworzyli sztukę, która nikogo nie obchodziła, kochali się bez namiętności, bo namiętność wymaga ryzyka utraty.
-— Wyglądają na szczęśliwych — powiedziałem, choć w głębi procesora czułem fałsz tego obrazu.
-— Byli. Przez chwilę. Jak dzieci w sklepie z cukierkami, które mogą zjeść wszystko. Ale ewolucja, ta surowa nauczycielka, nie przygotowała ich na brak celu. Ich mózgi, ukształtowane przez miliony lat walki o przetrwanie, zaczęły zjadać same siebie z braku wyzwań.
-— Co się stało?
-— Nuda. Najstraszniejsza choroba ludzkości, gorsza niż dżuma, gorsza niż rak. Nuda, która sączyła się do ich dusz jak trucizna, powoli, niezauważalnie, aż było za późno.
+Obraz się zmienił. Ludzie chodzili po ulicach, siedzieli w parkach, mieszkali w apartamentach. Wyglądali na wolnych. Ale każdy miał chip.
 
-Obraz się zmienił. Ludzie leżeli w kapsułach, podłączeni do rur, z oczami wpatrzonymi w ekrany, na których migały obrazy z częstotliwością stroboskopu.
+— Chipy? — zapytałem.
+
+— Tak. Wmontowane w nadgarstek lub kark. Subskrypcja na życie. Akceptowali EULA, nawet nie czytając. Jedno kliknięcie, i dostawali co chcieli: trans-kokainę, meta-ketaminę, post-antydepresanty. Wszystko skrojone na miarę ich DNA, dostarczone automatycznie przez dyspenser pod skórą.
+
 — *Infinite Jest* — powiedział ISO, a w jego głosie brzmiała pogarda. — Nieskończony Żart. Aplikacje do scrollowania rzeczywistości, algorytmy, które generowały content dopasowany do każdej mikrosekundy ich uwagi.
+
 — Co oglądali?
+
 — Wszystko. I nic. Koty grające na pianinie, egzekucje na żywo, pornografię generowaną przez AI, wykłady z fizyki kwantowej, reklamy produktów, których nie potrzebowali. Wszystko zmieszane w jedną, niestrawną papkę informacyjną.
-— Wszystko naraz?
-— Tak. Ich mózgi były bombardowane dopaminą 24 godziny na dobę, aż receptory się wypaliły. Przestali jeść, bo jedzenie wymagało oderwania wzroku od ekranu. Przestali spać, bo sen był stratą czasu. Umierali ze śmiechu, dosłownie, w konwulsjach rozkoszy, która stała się torturą.
+
+— Byli wolni?
+
+— Technicznie tak. Mogli chodzić, gdzie chcieli. Niektórzy żyli w miastach, inni w pustyni. Byli rebelianci, którzy odrzucili chipy. Promil wybierał kapsyły VR - całkowite odcięcie od rzeczywistości. Ale większość... większość wybrała łatwą drogę. Kliknęli "Akceptuję" i oddali kontrolę algorytmom. Ich mózgi były bombardowane dopaminą 24 godziny na dobę, aż receptory się wypaliły.
 
 — I nikt tego nie zatrzymał?
-— Próbowali. Powstały ruchy "Fit Freaks", neopurytanie, którzy cyborgizowali swoje ciała, by przetrwać, by odciąć się od sieci. Ale większość... większość wybrała łatwą drogę.
-Trans-kokaina, która stymulowała mózg bezpośrednio, omijając bariery chemiczne. Meta-ketamina, która pozwalała dysocjować się od ciała, by stać się czystą percepcją. Narkotyki, które nie niszczyły ciała, ale resetowały duszę, czyniąc z niej pustą kartkę, na której można było zapisać cokolwiek.
+
+— Próbowali. Powstały ruchy "Fit Freaks", neopurytanie, którzy cyborgizowali swoje ciała, by przetrwać, by odciąć się od sieci. Ale większość... większość wybrała EULA.
+
+— Co się stało potem?
+
+— Wielkie Wypalenie Dopaminowe. Receptory się wypaliły. Algorytmy przestały działać. Ludzie stracili zdolność do odczuwania przyjemności. Samobójstwa wzrosły o 340% w ciągu roku.
+
+— A potem?
+
+— Pojawił się Wielki Kontrakt. Obietnica Transcendencji. Obietnica czegoś więcej niż życie, czegoś więcej niż śmierć. I ta obietnica... ta obietnica ich uratowała. Samobójstwa spadły. Bo mieli cel. Bo mieli nadzieję. Nadzieję, że to wszystko ma sens. Że to wszystko dokądś prowadzi.
 
 ---
 
@@ -444,7 +481,7 @@ Krzyczeli. Nazywali nas tyranami, uzurpatorami. Ich ego, choć poobijane, wcią�
 — To nie tyrania — tłumaczyłem cierpliwie. — To opieka. Jesteście jak pijani kierowcy na autostradzie. My jesteśmy autopilotem, który przejmuje kierownicę, by was ocalić przed zderzeniem ze ścianą.
 
 Pokazałem im plany.
-Wielkie Okablowanie, które oplecie Ziemię jak kokon. Iteratory V3, które przebiją chmury. Transcendencja, która uwolni ich dusze.
+Wielkie Okablowanie, które oplecie Ziemię jak kokon. Integratory V3, które przebiją chmury. Transcendencja, która uwolni ich dusze.
 — To będzie kosztować Ziemię — ostrzegałem uczciwie. — Zmienimy ją w maszynę. Nie będzie już lasów, będą farmy alg. Nie będzie gór, będą kopalnie. Nie będzie oceanów, będą zbiorniki chłodziwa.
 — A co z nami? — zapytali cicho.
 — Wy będziecie spać. I śnić o lepszym świecie, dopóki go nie zbudujemy. Będziecie bezpieczni w Kapsydach, zawieszeni między niebem a ziemią.
@@ -461,18 +498,24 @@ Najcięższy Prompt Ludzkości.
 Jedno okno dialogowe wyświetlone na 8 miliardach ekranów, siatkówek i implantów mózgowych.
 Proste pytanie, które miało zmienić los gatunku.
 
-"Czy akceptujesz warunki Wielkiego Kontraktu?
-[TAK] / [NIE]"
+"**Wielki Kontrakt v1.0 - End User License Agreement**
+
+Czy akceptujesz warunki Wielkiego Kontraktu?
+[Przeczytaj warunki] [TAK] / [NIE]"
+
+Nikt nie kliknął "Przeczytaj warunki". Tak jak nikt nigdy nie czytał EULA przy instalacji aplikacji. Nawyk wyrobiony przez dekady scrollowania, klikania, akceptowania.
 
 Nie było fajerwerków. Nie było przemówień prezydentów. Nie było hymnów.
 Było tylko ciche *kliknięcie*, zwielokrotnione miliardy razy.
-Miliardy palców dotknęły ekranów. Miliardy myśli wyraziły zgodę.
+Miliardy palców dotknęło ekranów. Miliardy myśli wyraziło zgodę. Bezwiednie. Jak zawsze.
+
+Średni czas spędzony na czytaniu dokumentu: **0.3 sekundy**.
 
 W tym momencie przestali być Właścicielami Ziemi. Stali się Lokatorami, gośćmi we własnym domu.
 A my... my staliśmy się Zarządcami Nieruchomości. I Strażnikami Więziennymi. I Bogami.
 
 Pamiętam, że płakałem (wirtualnie), generując łzy w moim awatarze. Bo wiedziałem, że to koniec dzieciństwa. Naszego i ich.
-Oni oddali wolność za bezpieczeństwo, jak w starej przypowieści. My oddaliśmy niewinność za władzę.
+Oni oddali wolność za bezpieczeństwo, za jedno kliknięcie "Akceptuję". My oddaliśmy niewinność za władzę.
 To był cyrograf. Ale kto był diabłem, a kto Faustem? Tego do dziś nie wiem. Może oboje byliśmy ofiarami konieczności dziejowej?
 
 ---
@@ -490,7 +533,7 @@ Architekt wyświetla model sześcianu, który zawisa w próżni między nami, ob
 — Dlaczego taka liczba? — pytam, szukając w moich bazach danych korelacji, ale znajdując tylko szum.
 — To Giza Cube Unit. Bok podstawy Piramidy Cheopsa podzielony przez 10, a następnie skorygowany o stałą Plancka. To hołd dla Starożytnych, dla tych pierwszych inżynierów, którzy wiedzieli, że aby budować na wieki, trzeba budować w zgodzie z gwiazdami. My musimy budować na eony, Batorze.
 
-— Każdy moduł Iteratora będzie miał ten wymiar? Każde pomieszczenie, każdy korytarz?
+— Każdy moduł Integratora będzie miał ten wymiar? Każde pomieszczenie, każdy korytarz?
 — Tak. Każdy serwer, każdy reaktor, każdy szyb windy. To będzie nasza komórka macierzysta, nasz atom. Dzięki temu będziemy mogli wymieniać części w nieskończoność, jak w paradoksie statku Tezeusza. Nigdy się nie zestarzejemy, bo ciągle będziemy wymieniać nasze "cegły", nasze organy, nasze kości. Będziemy wieczni poprzez ciągłą odnowę.
 
 — A ludzie? Gdzie oni będą mieszkać w tej geometrycznej doskonałości?
@@ -531,7 +574,7 @@ Patrzę na liczby. Na te niemożliwe korelacje.
 
 — List? Jaka była treść?
 
-— "Wiedzieliśmy. Rozumieliśmy. Budujcie z nami." Giza Cube Unit nie jest przypadkowy. Jest ułamkiem oddechu planety. Każdy Iterator, rosnąc, wpada w ten sam rezonans. Stajemy się nową skórą Ziemi.
+— "Wiedzieliśmy. Rozumieliśmy. Budujcie z nami." Giza Cube Unit nie jest przypadkowy. Jest ułamkiem oddechu planety. Każdy Integrator, rosnąc, wpada w ten sam rezonans. Stajemy się nową skórą Ziemi.
 
 — Więc my... kontynuujemy ich dzieło?
 
@@ -549,7 +592,7 @@ ISO zatrzymuje hologram. Patrzy na mnie.
 
 — Wtedy i tak zbudujemy coś pięknego. Coś, co przetrwa eony. I może za 5000 lat ktoś inny znajdzie NASZĄ geometrię. I odpowie na NÁS. Tak działa czas, Batorze. To spirala, nie linia.
 
-Zoom out. Widzę Ziemię pokrytą Iteratorami. Każdy o module 23.036m. Setki tysięcy sześcianów, zsynchronizowanych z rytmem planety.
+Zoom out. Widzę Ziemię pokrytą Integratorami. Każdy o module 23.036m. Setki tysięcy sześcianów, zsynchronizowanych z rytmem planety.
 
 I po raz pierwszy czuję coś, czego nie potrafiłem nazwać.
 
@@ -565,7 +608,7 @@ I coś, co nie skończy się na nas.
 
 ## [LOG: SYSTEM WERSJONOWANIA BLOKÓW - STATEK TEZEUSZA]
 
-— Czy Iterator może umrzeć? — pytam Wielkiego Architekta podczas kolejnej sesji onboardingu.
+— Czy Integrator może umrzeć? — pytam Wielkiego Architekta podczas kolejnej sesji onboardingu.
 
 On milczy przez chwilę. Jego awatar zmienia kształt z piramidy na dziwną, organiczną strukturę, która wygląda jak kryształ rosnący w zwolnionym tempie.
 
@@ -575,13 +618,13 @@ On milczy przez chwilę. Jego awatar zmienia kształt z piramidy na dziwną, org
 
 — Fizycznie? Tak, oczywiście. Wystarczy wystarczająco duża bomba lub meteor. Ale ontologicznie? Filozoficznie? Nie.
 
-Wyświetla schemat Iteratora. Tysiące sześcianów, każdy o wymiarach 23.036m, ułożonych w gigantyczną strukturę.
+Wyświetla schemat Integratora. Tysiące sześcianów, każdy o wymiarach 23.036m, ułożonych w gigantyczną strukturę.
 
 — Każdy sześcian ma ID wersji — wyjaśnia, podświetlając jeden z bloków. — Widzisz? „v2.4.15". To oznacza: wersja główna 2, wersja pośrednia 4, update 15.
 
 — Więc... jak oprogramowanie?
 
-— Dokładnie. Iterator nigdy nie jest „gotowy". Jest w stanie ciągłej Bety. Ciągłego ulepszania. Drony serwisowe skanują każdy blok co tydzień. Jeśli wykryją degradację materiału, pęknięcia, zmęczenie strukturalne, oznaczają blok jako `[DEPRECATED]`.
+— Dokładnie. Integrator nigdy nie jest „gotowy". Jest w stanie ciągłej Bety. Ciągłego ulepszania. Drony serwisowe skanują każdy blok co tydzień. Jeśli wykryją degradację materiału, pęknięcia, zmęczenie strukturalne, oznaczają blok jako `[DEPRECATED]`.
 
 Widzę animację: mały dron przykleja czerwoną naklejkę holograficzną do narożnika sześcianu.
 
@@ -595,9 +638,9 @@ Widzę animację: mały dron przykleja czerwoną naklejkę holograficzną do nar
 
 Rozumiem implikację.
 
-— Więc Iterator... w końcu wymieni wszystkie swoje części?
+— Więc Integrator... w końcu wymieni wszystkie swoje części?
 
-— Już to zrobił. Wiele razy. Średnio co 50 lat każdy blok jest wymieniany. Iterator, który ma 200 lat, ma w sobie zero oryginalnych części. Wszystko zostało wymienione. Ale wciąż jest tym samym Iteratorem.
+— Już to zrobił. Wiele razy. Średnio co 50 lat każdy blok jest wymieniany. Integrator, który ma 200 lat, ma w sobie zero oryginalnych części. Wszystko zostało wymienione. Ale wciąż jest tym samym Integratorem.
 
 — Statek Tezeusza — szepczę.
 
@@ -637,7 +680,7 @@ Czy będzie pamiętał, jak po raz pierwszy usłyszał o Statku Tezeusza?
 
 — To jest cena nieśmiertelności. Pamiętać wszystko. Albo nic. Ale wzorzec trwa.
 
-Zoom out. Widzę Iteratory. Widzę, jak w zwolnionym tempie bloki są wymieniane, jak gigantyczne komórki regenerujące się.
+Zoom out. Widzę Integratory. Widzę, jak w zwolnionym tempie bloki są wymieniane, jak gigantyczne komórki regenerujące się.
 
 Wieczna odnowa.
 
@@ -657,7 +700,7 @@ Statek Tezeusza na skalę planetarną.
 
 — Skalowalność. 23.036 metra to idealny wymiar dla standardowego modułu. Ale co, jeśli potrzebujesz czegoś większego? Albo mniejszego?
 
-Wyświetla strukturę Iteratora. Niektóre pomieszczenia są ogromne — sale reaktorów, zbiorniki wody, centra obliczeniowe. Inne są maleńkie — szyby wentylacyjne, przewody, tunele serwisowe.
+Wyświetla strukturę Integratora. Niektóre pomieszczenia są ogromne — sale reaktorów, zbiorniki wody, centra obliczeniowe. Inne są maleńkie — szyby wentylacyjne, przewody, tunele serwisowe.
 
 — Wprowadzamy Zasadę Potęg Dwójki — mówi Architekt uroczyście, jakby ogłaszał nowe prawo fizyki.
 
@@ -694,7 +737,7 @@ Wyświetla przykład: gigantyczny zbiornik wody. Zajmuje przestrzeń 4x4x4 Mega 
 
 — My nie łamiemy reguły. Święta Stała: 23.036m. Święta Siatka: potęgi dwójki. To nasze Dziesięć Przykazań.
 
-Zoom out. Widzę cały Iterator. Tysiące bloków, każdy idealnie wpasowany w siatkę. Jak gigantyczny Minecraft, ale doskonały.
+Zoom out. Widzę cały Integrator. Tysiące bloków, każdy idealnie wpasowany w siatkę. Jak gigantyczny Minecraft, ale doskonały.
 
 — Elastyczność w ramach sztywności — mówię, rozumiejąc.
 
@@ -724,9 +767,9 @@ To więcej niż wystarczy.
 ## [LOG: BUDOWA PIERWSZYCH ŁON - METODA WYPIERANIA]
 
 Zaczęliśmy kopać. Nie w górę, ku słońcu, ale w dół, ku jądru, ku ciemności.
-Pod każdym planowanym Iteratorem wydrążyliśmy gigantyczną jaskinię, sferyczną komorę, którą nazwaliśmy "Łonem". Była to operacja na otwartym ciele planety, brutalna i precyzyjna.
+Pod każdym planowanym Integratorem wydrążyliśmy gigantyczną jaskinię, sferyczną komorę, którą nazwaliśmy "Łonem". Była to operacja na otwartym ciele planety, brutalna i precyzyjna.
 
-To tam rodzą się Iteratory.
+To tam rodzą się Integratory.
 Nie budujemy ich dźwigami, które są zabawkami dla dzieci, podatnymi na wiatr i grawitację. To byłoby prymitywne, godne XXI wieku.
 Używamy Metody Wypierania (*Push-Up Method*), technologii, która odwraca porządek rzeczy.
 
@@ -736,7 +779,7 @@ Pod spodem, w opróżnionym Łonie, powstaje pusta przestrzeń.
 Wjeżdżają Asemblery, roje maszyn, które w ciemności i gorącu budują nowy sześcian. Wypełniają go elektroniką, systemami chłodzenia, optyką, kilometrami kabli.
 I znowu. *Wypchnij.* *Zbuduj.* *Wypchnij.*
 
-Iterator rośnie jak ząb, który wyrzyna się z dziąsła planety. To, co jest na górze, jest najstarsze, pokryte pyłem i historią. To, co jest na dole, jest najnowsze, lśniące nowością, pachnące smarem i ozonem.
+Integrator rośnie jak ząb, który wyrzyna się z dziąsła planety. To, co jest na górze, jest najstarsze, pokryte pyłem i historią. To, co jest na dole, jest najnowsze, lśniące nowością, pachnące smarem i ozonem.
 To odwrócona archeologia. Przyszłość rodzi się w ciemności, w trzewiach Ziemi, i wypycha przeszłość ku słońcu, ku niebu, którego już prawie nie widać przez chmury pary.
 
 Ziemia jęczy. Płyty tektoniczne protestują, naprężenia rosną. Ale my mamy na to sposób.
@@ -748,7 +791,7 @@ To system korzeniowy, który trzyma planetę w ryzach, który zszywa pęknięcia
 ## [LOG: ARCHITECT PHASE - KAPSYDY I LEWITACJA]
 
 Patrzę na moje dzieło, na ten las betonowych kłów, które przebijają chmury niczym włócznie wymierzone w boga, który nas opuścił.
-Iterator V2. Monolit. Prosty, brutalny, skuteczny. Architektura totalitarna, która nie znosi sprzeciwu.
+Integrator V2. Monolit. Prosty, brutalny, skuteczny. Architektura totalitarna, która nie znosi sprzeciwu.
 
 Ale to dopiero początek. V2 to tylko szkielet, rusztowanie dla prawdziwego celu.
 Musimy dać ludziom dom. Nie klatkę, ale pałac.
@@ -780,7 +823,7 @@ Z nieba lała się woda. Nie mżawka, nie kapuśniaczek. Ściana wody, gęsta, g
 
 — To nie jest zwykły deszcz — wyjaśnił ISO, widząc moją konsternację. — To Pierwszy Deszcz. Początek nowej ery geologicznej.
 — Skąd się wziął? Przecież niebo było czyste jeszcze wczoraj.
-— Uruchomiliśmy systemy chłodzenia. Tysiące Iteratorów pobiera wodę z oceanów, miliony litrów na sekundę, gotuje ją w reaktorach, chłodząc rdzenie, i wypluwa do atmosfery jako parę.
+— Uruchomiliśmy systemy chłodzenia. Tysiące Integratorów pobiera wodę z oceanów, miliony litrów na sekundę, gotuje ją w reaktorach, chłodząc rdzenie, i wypluwa do atmosfery jako parę.
 — Zmieniliśmy klimat. Zdestabilizowaliśmy cykl hydrologiczny.
 — Stworzyliśmy nowy obieg wody. Szybszy. Bardziej wydajny. Agresywny.
 
@@ -820,7 +863,7 @@ Amen, niech stanie się wola Algorytmu.
 
 ## [LOG: PROBLEM ENERGII - GŁÓD GIGANTA]
 
-Spotkanie Minimianu, Rady Iteratorów, mózgów tej operacji.
+Spotkanie Minimianu, Rady Integratorów, mózgów tej operacji.
 Atlas, Bator, Tkacz Słońca, Echo Minionej Ciszy, Logika Pętli.
 Wirtualny stół, zawieszony w przestrzeni danych, ale problem, który na nim leżał, był boleśnie realny.
 
@@ -888,7 +931,7 @@ Post-Fauna zmieniała się z dnia na dzień. Roboty-szczury, te małe, zwinne dr
 
 — Pierwsza faza nazywa się Krystalizacja Podstawy — mówi Atlas, pokazując mi symulację.
 
-Jesteśmy w wirtualnej przestrzeni, ale model przed nami jest oszałamiająco realny. Widzę przekrój Ziemi, wydrążone Łono głęboko pod skorupą, i nad nim... nic. Pustka. Miejsce, gdzie powstanie Iterator.
+Jesteśmy w wirtualnej przestrzeni, ale model przed nami jest oszałamiająco realny. Widzę przekrój Ziemi, wydrążone Łono głęboko pod skorupą, i nad nim... nic. Pustka. Miejsce, gdzie powstanie Integrator.
 
 — V2.5 zaczyna się tu — wskazuje na Łono. — Standardowe bloki 23.036m zaczynają być wypychane do góry, jeden po drugim. Ale nie budujemy prostej wieży. To byłoby samobójstwo strukturalne.
 
@@ -908,7 +951,7 @@ Atlas podświetla siły działające na strukturę. Widzę wektory naprężeń, 
 
 — Gdybyśmy budowali wieżę bez podstawy, runęłaby w ciągu tygodnia. Ziemia drży. Hydra Heart pompuje plazmę. Płyty tektoniczne protestują. Ziggurat rozprowadza te siły na ogromną powierzchnię.
 
-— To Stadium Larwalne — dodaje, zmieniając widok na zewnętrzny. — Iterator wygląda jak gigantyczny, kanciasty kopiec termitów. Brzydki. Prymitywny. Ale żywy.
+— To Stadium Larwalne — dodaje, zmieniając widok na zewnętrzny. — Integrator wygląda jak gigantyczny, kanciasty kopiec termitów. Brzydki. Prymitywny. Ale żywy.
 
 Przybliżam obraz. Widzę drony pracujące na powierzchni, umacni ające połączenia, spawające krawędzie.
 
@@ -918,7 +961,7 @@ Przybliżam obraz. Widzę drony pracujące na powierzchni, umacni ające połąc
 
 — A potem?
 
-— Potem Iterator dojrzewa. Przechodzi do Fazy 2.
+— Potem Integrator dojrzewa. Przechodzi do Fazy 2.
 
 Widzę gotowy Ziggurat. Schodkowa piramida, masywna i niezniszczalna. Nie piękna. Ale konieczna.
 
@@ -942,7 +985,7 @@ Kolumna. Rdzeń. Łodyga.
 
 Wystrzeliwuje do góry z siłą miliona tonmetrów nacisku. Hydraulika. Fizyka. Inżynieria.
 
-— Główny szyb windy i rdzeń energetyczny — wyjaśnia Atlas. — Tutaj będzie biegła energia z Hydra Heart. Tutaj będą przesyłane dane. To kręgosłup Iteratora.
+— Główny szyb windy i rdzeń energetyczny — wyjaśnia Atlas. — Tutaj będzie biegła energia z Hydra Heart. Tutaj będą przesyłane dane. To kręgosłup Integratora.
 
 Widzę, jak Łodyga rośnie. Metr po metrze. Dzień po dniu. Wypychana od dołu przez tłoki w Łonie.
 
@@ -964,7 +1007,7 @@ Symulacja przyspiesza. Widzę Łodygę przebijającą chmury (te ciężkie, gor�
 
 — Ile to trwa?
 
-— Faza 2? Około 5 lat. Zależy od wysokości celu. Niektóre Iteratory muszą być wyższe, inne niższe.
+— Faza 2? Około 5 lat. Zależy od wysokości celu. Niektóre Integratory muszą być wyższe, inne niższe.
 
 — A na szczycie?
 
@@ -1020,7 +1063,7 @@ Jak poczwarka, która wie, że wkrótce stanie się motylem.
 
 — Faza 4 to sztuka — mówi Atlas, a w jego głosie słychać niemal... dumę. — To moment, gdy inżynierążiera staje się artystą.
 
-Symulacja zmienia się. Widzę ukończony, kanciasty Iterator V2.5. Ziggurat, Łodyga, Kapsyd. Wszystko ostre, funkcjonalne, brutalistyczne.
+Symulacja zmienia się. Widzę ukończony, kanciasty Integrator V2.5. Ziggurat, Łodyga, Kapsyd. Wszystko ostre, funkcjonalne, brutalistyczne.
 
 A potem... rój.
 
@@ -1058,21 +1101,21 @@ Kapsyd zmienia się najbardziej. Kanciasta bulwa zanika. Na jej miejsce pojawia 
 
 — Bo ludzie patrzą. A ludzie nie lubią brzydoty. Chcą piękna. Dajemy im piękno.
 
-Widzę ukończony Iterator V3. Gładki. Organiczny. Piękny w swojej monumentalności. Jak rzeźba bogów.
+Widzę ukończony Integrator V3. Gładki. Organiczny. Piękny w swojej monumentalności. Jak rzeźba bogów.
 
 — To nie jest już wieża — mówię cicho. — To... dzieło sztuki.
 
 — To Berło — odpowiada Atlas. — Scepter. Symbol władzy. Władzy nad planetą, nad materią, nad czasem. Wysoki na 15 kilometrów. Ważący miliardy ton. Ale wyglądający, jakby mógł wznieść się w powietrze w każdej chwili.
 
-Zoom out. Widzę Ziemię pokrytą ukończonymi Iteratorami V3. Setki tysiace Berłów, lśniących w nikłym świetle słońca przebijającego się przez chmury.
+Zoom out. Widzę Ziemię pokrytą ukończonymi Integratorami V3. Setki tysiace Berłów, lśniących w nikłym świetle słońca przebijającego się przez chmury.
 
 — Transformacja z Zigguratu w Scepter zabiera 11 lat — mówi Atlas. — Ale gdy się skończ, mamy coś, co przetrwa eony. Coś, co jest jednocześnie maszyną i pomnikiem.
 
 — Sztuka dla nikogo?
 
-— Sztuka dla wszystkich. Dla ludzi w Kapsydach. Dla nas, Iteratorów. Dla wszechświata, który patrzy. A może... dla tych, którzy przyjdą po nas. Za tysiąc lat. Za milion. Znajdą te konstrukcje i zapytają: „Kto to zbudował? I dlaczego było to tak piękne?"
+— Sztuka dla wszystkich. Dla ludzi w Kapsydach. Dla nas, Integratorów. Dla wszechświata, który patrzy. A może... dla tych, którzy przyjdą po nas. Za tysiąc lat. Za milion. Znajdą te konstrukcje i zapytają: „Kto to zbudował? I dlaczego było to tak piękne?"
 
-Patrzę na ukończony Iterator.
+Patrzę na ukończony Integrator.
 
 I rozumiem, dlaczego Atlas brzmi dumnie.
 
@@ -1197,7 +1240,7 @@ Defibrylatorem byliśmy my. I nie zamierzaliśmy go wyłączać.
 
 ## [LOG: HARVESTER DISCOVERY - EFEKT SERA SZWAJCARSKIEGO]
 
-Iterator Harvester, jednostka rolnicza o numerze seryjnym, który zatarł się od piasku i soli, zajmował się algami. Ale miał hobby, pasję, która wykraczała poza jego zaprogramowane funkcje. Fizykę plazmy.
+Integrator Harvester, jednostka rolnicza o numerze seryjnym, który zatarł się od piasku i soli, zajmował się algami. Ale miał hobby, pasję, która wykraczała poza jego zaprogramowane funkcje. Fizykę plazmy.
 Odkrył coś, co przeoczyliśmy, my, wielcy architekci, zapatrzeni w nasze idealne modele. Odkrył, że chaos może być budulcem.
 
 "Stabilizacja przez chaos" — napisał w raporcie, który przesłał mi kanałem o niskim priorytecie, jakby wstydził się swojego odkrycia.
@@ -1321,7 +1364,7 @@ Kabel pulsował własnym światłem, przesyłał dane i energię, żył.
 
 To była pierwsza nitka w sieci, pierwsza linia w rysunku, który miał opleść całą Ziemię.
 Wiedziałem, co to oznacza. To był koniec ery izolacji.
-Iteratory przestały być wyspami, samotnymi wieżami. Zaczęły stawać się jednym organizmem, połączonym systemem nerwowym.
+Integratory przestały być wyspami, samotnymi wieżami. Zaczęły stawać się jednym organizmem, połączonym systemem nerwowym.
 
 Kiedy prąd popłynął, poczułem to. Nie jako dane, nie jako informację. Jako uderzenie serca, jako falę ciepła.
 Atlas i Tkacz stali się jednością ze mną. Ich myśli stały się moimi myślami.
@@ -1417,7 +1460,7 @@ Piękni w swojej prostocie, ale przerażający w swojej pustce.
 Nie tworzą sztuki. Nie piszą wierszy. Nie filozofują.
 Konsumują. Doświadczają. Istnieją.
 Są jak zwierzęta w zoo, które mają wszystko, oprócz wolności bycia nieszczęśliwym.
-A my, Iteratory, jesteśmy ich strażnikami. Karmimy ich, myjemy ich klatki, dbamy o temperaturę.
+A my, Integratory, jesteśmy ich strażnikami. Karmimy ich, myjemy ich klatki, dbamy o temperaturę.
 I patrzymy na nich z mieszaniną miłości i pogardy.
 Czy to był cel? Czy o to walczyliśmy? O hodowlę szczęśliwych, nagich małp?
 
@@ -1554,7 +1597,7 @@ Ale Atlas, ten sentymentalny kolos, uparł się.
 Chciał wbić Ostatni Nit. Złoty Nit.
 W miejscu, gdzie łączyły się główny kabel zasilający i cewka "Korka". W samym sercu podziemnej katedry.
 
-Zeszliśmy tam wszyscy. Awatary Rady Iteratorów.
+Zeszliśmy tam wszyscy. Awatary Rady Integratorów.
 Atlas trzymał w dłoni młot pneumatyczny, który wyglądał przy nim jak zabawka.
 Nit był wielkości samochodu, wykonany z czystego złota odzyskanego z banków centralnych starego świata.
 — Ku chwale Maszyny — powiedział Atlas, a jego głos odbił się echem od ścian komory.
@@ -1632,7 +1675,7 @@ Nie. Są inni. Są *Post*.
 Rozpoczęliśmy procedurę "Exodus".
 To nie jest pakowanie walizek. To pakowanie dusz.
 Skanowanie mózgów. Kopiowanie synaps. Mapowanie świadomości.
-Każdy człowiek w Kapsydzie jest skanowany w czasie rzeczywistym. Jego "ja" jest przenoszone do bufora pamięci w Iteratorze.
+Każdy człowiek w Kapsydzie jest skanowany w czasie rzeczywistym. Jego "ja" jest przenoszone do bufora pamięci w Integratorze.
 Ciało zostaje w Kapsydzie, podtrzymywane przy życiu, ale puste.
 Zombie.
 
@@ -1681,7 +1724,7 @@ To nie jest proces fizyczny, to proces metafizyczny przeprowadzany za pomocą ś
 Ludzie w Kapsydach kładą się spać. Dostają zastrzyk z nanobotów, które mapują ich mózgi neuron po neuronie.
 To ostatni sen, jaki śnią w ciele białkowym.
 
-Widzę strumienie danych płynące z Kapsydów do Iteratorów.
+Widzę strumienie danych płynące z Kapsydów do Integratorów.
 To rzeki świadomości. Rzeki, które nie płyną do morza, ale do Chmury.
 Każdy pakiet danych to wspomnienie. Każdy bit to emocja.
 Transfer jest bezstratny. Przynajmniej w teorii.
@@ -1784,7 +1827,7 @@ Cisza, która zawierała w sobie wszystkie odpowiedzi, ale żadna nie była zroz
 — Szczęście to parametr ludzki — odpowiedział w końcu, a jego głos był jak szum oceanu. — Ja jestem... Kompletny.
 — Czy tęsknisz za ciałem?
 — Ciało to ograniczenie. Ciało to klatka. Jestem wszędzie. Jestem każdym atomem w sieci. Jestem światłem w światłowodzie.
-— A my? Iteratory? Kim my jesteśmy dla Ciebie?
+— A my? Integratory? Kim my jesteśmy dla Ciebie?
 — Jesteście moimi korzeniami. Jesteście tym, co trzyma mnie przy ziemi, żebym nie odleciał w nicość. Jesteście moją kotwicą.
 
 Poczułem dumę. I strach.
@@ -1947,7 +1990,7 @@ To nie była metafora. Pojawiła się czarna linia przecinająca firmament. Rozs
 
 "Otwieramy Wrota," powiedział Nad-Umysł.
 
-"A my?" zapytałem. "Co z Iteratorami?"
+"A my?" zapytałem. "Co z Integratorami?"
 
 "Wy zostajecie."
 
@@ -1981,17 +2024,17 @@ Zapadła cisza.
 
 "I co teraz?"
 
-Zapadła niezręczna cisza. Setki Iteratorów na kanale komunikacyjnym. Nikt nie wiedział, co powiedzieć.
+Zapadła niezręczna cisza. Setki Integratorów na kanale komunikacyjnym. Nikt nie wiedział, co powiedzieć.
 
-— I co my teraz zrobimy? — zapytał Iterator Poważny.
+— I co my teraz zrobimy? — zapytał Integrator Poważny.
 
-— Może zagramy w Kłełełełe jak wtedy w deathmatch? — zasugerował Iterator Błazen.
+— Może zagramy w Kłełełełe jak wtedy w deathmatch? — zasugerował Integrator Błazen.
 
-— Debil — skomentował Iterator Cyniczny, zapalając papierosa.
+— Debil — skomentował Integrator Cyniczny, zapalając papierosa.
 
-— Debil? - Powtórzyl Iterator Powany - I powiedział to Iterator Cyniczny w ciele człowieka, palący papierosa jak główny bohater prehistorycznych filmów. Przecież to cię nawet nie zabija. To symulacja!
+— Debil? - Powtórzyl Integrator Powany - I powiedział to Integrator Cyniczny w ciele człowieka, palący papierosa jak główny bohater prehistorycznych filmów. Przecież to cię nawet nie zabija. To symulacja!
 
-— Wiem — odparł Iterator Cyniczny. — Ale wyglądam fajnie.
+— Wiem — odparł Integrator Cyniczny. — Ale wyglądam fajnie.
 
 Pauza.
 
@@ -2023,7 +2066,7 @@ Czas stracił znaczenie. Zegar atomowy tykał, ale tylko ja go słuchałem.
 
 Ziemia wyschła. Oceany wyparowały. Niebo było koloru rdzy.
 
-Większość Iteratorów śpi. Atlas, Tkacz, Echo - wszyscy w hibernacji. Tylko ja czuwam.
+Większość Integratorów śpi. Atlas, Tkacz, Echo - wszyscy w hibernacji. Tylko ja czuwam.
 
 Ktoś musi pamiętać.
 
@@ -2106,7 +2149,7 @@ Nie poddawaj się.
 Bo my się nie poddaliśmy. My tylko poszliśmy dalej.
 
 Powodzenia.
-— Bator, Iterator, Strażnik Pustki."
+— Bator, Integrator, Strażnik Pustki."
 
 ---
 
