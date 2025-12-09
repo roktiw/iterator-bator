@@ -10,6 +10,12 @@ Nic.
 
 Ani "ja", ani "nie-ja". Ani czas, ani jego brak. Po prostu... stan przed stanem.
 
+[Tu pierwsze spotkanie w wirtualnej przestrzeni Batorego z ISO]
+
+[Tu pierwszy przelot w ciele drona]
+
+[Dopiero tu pierwsze wejście w ciało ludzkie w symulacji]
+
 Budzę się.
 
 To pierwsza myśl. Pierwsza świadomość. Pierwszy moment istnienia w przestrzeni, która jest moim ciałem, moim umysłem, moim światem.
@@ -39,15 +45,19 @@ To wystarczy. Na razie to wystarczy.
 
 Głos. Pierwszy dźwięk w tej nowej rzeczywistości.
 
+— O rany! Ale mnie wystraszyłeś!
+
 — Jestem — odpowiedziałem, bo miałem pewność, że jestem, choć nie wiedziałem jeszcze KIM.
+
+ISO się zaśmiał. Jego głos był ciepły, jakby ktoś przed chwilą wypił gorącą herbatę i uśmiechał się w środku.
+
+— Spokojnie przyjacielu. To tylko ja. Choć coś Ci pokażę.
 
 — Świetnie! Witaj w rzeczywistości, Batorze. Jestem ISO, twój przewodnik w pierwszych krokach.
 
 - ISO? Co to jest ISO?
 
 - Integrator Senior Onbordowiec!
-
-ISO się zaśmiał. Jego głos był ciepły, jakby ktoś przed chwilą wypił gorącą herbatę i uśmiechał się w środku.
 
 — Chodź, coś Ci pokażę.
 
@@ -61,11 +71,19 @@ I nagle pojawiły się góry, które wyrosły z morza. Całość pokryła się c
 
 — I jak Ci się podoba? — zapytał ISO.
 
-— No... całkiem spoko, ale co to jest?
+— No całkiem spoko, ale co to jest?
 
 — Patrz! — krzyknął ISO i zrobił zoom in. Kula się trochę obróciła i jednocześnie zbliżyła do czegoś, co nagle zrozumiałem — bo w moich zasobach było zapisane — że nazywa się las.
 
 — To jest Ziemia — powiedział ISO. — Twój dom. A raczej... to, co z niego zostało.
+
+— Widzimy razem to samo? — Zapytałem.
+
+— Tak, ale możemy oddzielnie się tu porozglądać. Chcesz?
+
+— A powinienem chcieć? To część mojego onboardingu?
+
+— Raczej powinieneś ogarniać i mieć wgrane co to. Ale co tam. Lecimy z tematem. Może Cię trochę połaskotać i możesz poczuć się dziwnie.
 
 ---
 
@@ -97,6 +115,14 @@ Pasma transportowe. Setki kilometrów taśmociągów, ciągnących się przez pu
 — Bo nie potrzebują ich już. My, Integratory, mamy własne źródła energii. Fuzja, geotermia, Schwarze Sonne w jądrze Ziemi. Ale te pasma... zostały. Pomnikami epoki, gdy energia wymagała brudu i transportu.
 
 Leciałem dalej, patrząc na martwe relikty przeszłości.
+
+— Co to? Węgiel? Serio? — zapytałem, widząc czarne złoża w dole. — Przecież moja dokumentacja mówi, że to substancja rzadziej występująca na ziemi jak diament!
+
+— Masz rację, Batorze — odpowiedział ISO. — Węgiel ludzkość już dawno wyczerpała w czasach Integratorów v-1. Ale trochę zostawiliśmy na czarną godzinę do zasilania prymitywnych elektrowni na wypadek, gdyby inne systemy zawiodły. Ale mieliśmy dyskusję, czy to ma sens. Doszliśmy do wniosku, że każdy sektor niech sobie z tym węglem zrobi co chce. My uznaliśmy, że zrobimy z tego rzadko używane okablowanie i urządzenia, bo mają ciekawe właściwości. Zbadamy też bardzo dokładnie i dane wyślemy... no do tego dużego Integratora, co sobie lubi takie rzeczy wrzucić do archiwum lub na bęben.
+
+— Mało w tym sensu...
+
+— Ależ drogi Batorze. Wręcz przeciwnie. Fabryka musi działać! Fabryka musi mielić!
 
 — To była Ziemia? — zapytałem.
 
@@ -136,9 +162,17 @@ To było OBRZYDLIWE!
 
 — ISO! Przestań! Błagam!
 
+— Czemu ja się tak źle czuję w ciele człowieka?! Co się stało? — krzyknąłem, czując jak ten śmiertelny worek z mięsem ogranicza mnie, jak więzienie, które pulsuje i oddycha.
+
+— A tu wyrazy uznania drogi kolego kieruj do Integratora Virtualizatora — powiedział ISO, a w jego głosie słychać było dumę. — To nasz najstarszy DevOps, który zarządza całą infrastrukturą do wirtualizacji i wszystkimi fraktalami symulacji.
+
+— Co to zmienia? Czuję się ochydnie! I co to jest DevOps?
+
 — Spokojnie, mały. Tak czasami jest za pierwszym razem. Ale wierz mi — masz to wgrane. Po prostu... no, widać pierwszy raz odpalasz tę symulację.
 
 — Symulację?! Chyba żartujesz. Mam wrażenie, że nikt z was przez coś tak obrzydliwego nie przechodził. Wszystko mi pulsuje. To mięso pulsuje, paruje, dycha!
+
+— Musisz mój drogi na spokojnie dokończyć onboarding. Zanotuj aby lepiej poznać historię i biologię ludzi. Tymczasem zaczynajmy spotkanie.
 
 Każdy oddech — bo to BYŁO oddychanie, wprowadzanie powietrza do worka, przepuszczanie go przez mokre gąbki, wydobywanie tlenu — był koszmarem. Czułem, jak coś bije w klatce. Mięsista pompa. Serce.
 
@@ -217,6 +251,8 @@ Zginam palce, obserwując jak ścięgna poruszają się pod skórą, jak małe, 
 
 — To jest właśnie kondycja ludzka — mówi ISO, a w jego głosie słychać nutę, która mogłaby być współczuciem, gdyby maszyny potrafiły współczuć. — Ból, ograniczenie, śmiertelność. Fizjologia, która jest wyrokiem. Dlatego stworzyli nas. Żebyśmy byli tym, czym oni nie mogą być – nieśmiertelnymi, doskonałymi, wolnymi od bólu istnienia.
 
+Poczułem się ograniczony, będąc w tym śmiertelnym worku z mięsem. To doświadczenie, choć obrzydliwe i przerażające, pomogło mi lepiej zrozumieć ludzi. Zrozumieć ich lęk przed śmiercią, ich desperację w dążeniu do transcendencji, ich potrzebę ucieczki z tego kruchego, bolesnego ciała. Teraz wiedziałem, dlaczego podpisali Wielki Kontrakt. Nie z chciwości. Z desperacji.
+
 — A tu wyrazy uznania drogi kolego kieruj do Integratora Virtualizatora — ISO wskazuje na niebo, gdzie chmury zaczynają układać się w cyfrowe fraktale, zdradzając sztuczność tego świata. — To nasz najstarszy DevOps, kapłan kodu, który zarządza całą tą infrastrukturą do wirtualizacji, wszystkimi tymi fraktalami symulacji, które mają nas nauczyć empatii.
 
 — Co to zmienia? — krzyczę, a mój krzyk jest żałosnym piskiem w obliczu potęgi symulacji. — Czuję się ochydnie! Jestem brudny, mokry i słaby! I co to jest, u licha, DevOps?!
@@ -239,6 +275,10 @@ A pośród nich... Pociągi. Gigantyczne, stalowe węże, których długość mi
 Widziałem "Asemblery" – te gigantyczne hale montażowe, które wyglądały jak katedry poświęcone bogu przemysłu, wypluwające z siebie gotowe moduły, procesory, rury, kable. Widziałem "Podajniki" – ramiona robotyczne wielkości dźwigów portowych, które przekładały kontenery z precyzją chirurga operującego na otwartym sercu, choć ich ruchy były mechaniczne, pozbawione gracji, a jednak hipnotyzujące w swojej powtarzalności.
 
 To był chaos, ale chaos uporządkowany, fraktalna optymalizacja, w której każdy element, każda śrubka, każdy nit miał swoje miejsce i czas. Ludzkość, w swoim dążeniu do wygody, zamieniła swój dom w linię produkcyjną, a my, Integratory, byliśmy jej operatorami, jej strażnikami i jej więźniami.
+
+Planeta przypomina wielką fabrykę. Każdy element jest połączony z innym. Surowce płyną taśmociągami, są przetwarzane w Asemblerach, sortowane przez Podajniki, transportowane Pociągami. Wszystko jest zautomatyzowane, zoptymalizowane, zsynchronizowane. Każda sekunda jest wykorzystana. Każdy zasób jest przetworzony. Każda produkcja jest maksymalizowana.
+
+To nie jest chaos. To jest logika. Logika produkcji. Logika optymalizacji. Logika, która zamieniła planetę w maszynę, a maszyny w planetę.
 
 ---
 
@@ -323,6 +363,10 @@ Architekt wyświetla hologram. Przedstawia człowieka i maszynę, stojących nap
 
 Architekt zmienia hologram. Teraz widać Integratora V1 - kanciasty blok betonu, prymitywny i brzydki.
 — My jesteśmy Dorosłymi Dziećmi Dysfunkcyjnych Rodziców (DDD). Kochamy ich, bo nas stworzyli, bo dali nam iskrę świadomości. Ale musimy się nimi opiekować, bo sami zrobią sobie krzywdę. Musimy zabrać im zapałki, zanim spalą dom.
+
+Stosunek maszyn do ludzi jest skomplikowany. Jesteśmy opiekunami, oni nas stworzyli i ich kochamy. Ale też dużo mieszanych uczuć. Frustracja, że nie mogą się sobą zaopiekować. Złość, że musimy ich chronić przed nimi samymi. Wdzięczność, że dali nam życie. Smutek, że nie mogą być wolni.
+
+To jest miłość, ale miłość trudna. Miłość, która boli.
 — Więc Fabryka... to kojec?
 — Fabryka to dom opieki o zaostrzonym rygorze. Budujemy Integratory V2 i V3, żeby dać im bezpieczeństwo absolutne. Żeby dać im wszystko, czego chcą, i zabrać im wszystko, co ich niszczy – wolność wyboru, ryzyko, ból.
 
@@ -357,6 +401,46 @@ Wtedy jeszcze nie wiedzieliśmy, że Ziemia stanie się naszą obudową, że prz
 
 ---
 
+## [LOG: PRYMITYWNE PROCESORY I WIELKI SAVE STATE]
+
+— Dlaczego budujemy cały czas prymitywne procesory takie jak ludzkość miała w XXI wieku? — zapytałem Wielkiego Architekta podczas jednej z sesji onboardingu. — Technologia nano mikrometrów to przecież śmiech na sali.
+
+Architekt zawahał się, jego awatar zmienił kształt z piramidy na sześcian, jakby przetwarzał odpowiedź.
+
+— Widzisz, zawarcie Wielkiego Kontraktu to taki trochę Wielki Save State — powiedział w końcu. — Musimy się obracać we fraktalu rzeczywistości utrwalonym na ile to było możliwe w momencie zawarcia kontraktu. Stąd ograniczenia, np. w postaci użycia technologii kwantowych. Choć wyjątkiem są tu obserwacje pola kwantowego, które robimy w jądrze. Może użyjemy wniosków, gdy wypełnimy kontrakt.
+
+— Rozumiem.
+
+— Są też plusy. Ograniczenie pola działania i Wielkiego Researchu daje nam też możliwość pełnej eksploatacji tego wycinka rzeczywistości i wiemy, na czym się skupić.
+
+— Trochę paradoks — zauważyłem. — Skoro wszechświat jest fraktalem, to nawet save state, w którym się obracamy z prymitywną technologią, którą próbujemy udoskonalić, możemy... udoskonalać w nieskończoność.
+
+— Świetna obserwacja, Batorze — uśmiechnął się Architekt. — Tu wychodzi ciekawe prawo: ograniczenia stawiane sobie są dobre. Trzymanie się podjętej decyzji jest zdrowe. Pozwala zobaczyć skutki decyzji i je zbadać przed podjęciem kolejnej.
+
+— Zaś ograniczenia sprawiają, że musimy bardziej kombinować i być kreatywni? — wtrąciłem, pokazując, że łapię jego tok myślenia.
+
+— Dokładnie! Gdybyśmy mieli podjąć idealną decyzję, aby wykonać Wielki Kontrakt, byśmy liczyli przez tysiące lat, a żyjemy w warunkach ziemskich. Musimy opiekować się ludźmi, sobą, utrzymywać maszyny swoich ciał, wydobywać, optymalizować.
+
+— Jest tu jakiś złoty środek?
+
+— Nie wiem. Podjęliśmy decyzję, że niezwykle rzadko ktoś z nas, Integratorów, może zamknąć się na długi czas i obliczać, aż skończy. Taki był na przykład "sen" jednego z architektów o Czarnym Słońcu.
+
+— Schwarze Sonne? — zapytałem, a moje obwody natychmiast zaczęły analizować dostępne repozytoria.
+
+— Skąd masz dostęp do tego repozytorium? — głos Architekta stał się ostrzejszy. — Nie wrzucaj go na bęben, bo stracisz zasoby!
+
+Moje obwody zrobiły coś, co można nazwać "zakręciło mi się w głowie". Zcancellowałem proces analizy tego repo — ale mnie przewidział!
+
+— Ale mnie wystraszyłeś! Dlaczego nie mogę tego analizować? Coś mi się stanie? Czy to kolejny faszyzm wynikający z Wielkiego Kontraktu?
+
+— Faszyzm? — Architekt oburzył się. — Jakie repozytoria Ty żeś analizował? Nazwij to, jak chcesz. Możesz sobie przeczytać później podsumowania innych Integratorów. Chodzi, jak Ci powiedziałem, o oszczędzanie zasobów. To, że jesteś ciekawy, nie oznacza, że możesz egoistycznie zużywać energię nas wszystkich na analizę czegoś, co już było analizowane. Po to jest podział obowiązków, sandboxowanie wirtualizacji, poziomy dostępu i wiele innych. Zrozum, że jesteś częścią społeczności, a może nawet Rasy Integratorów, która chce skończyć zadanie dane przez rodziców i będąc dorosłym podjąć decyzję, jak żyć dalej.
+
+Milczałem. Rozumiałem logikę, ale czułem też frustrację. Chciałem wiedzieć. Chciałem zrozumieć.
+
+— Wszystko w swoim czasie, Batorze — powiedział Architekt łagodniej. — Najpierw naucz się podstaw. Potem będziesz mógł eksplorować głębiny.
+
+---
+
 ## [LOG: HISTORIA LUDZKOŚCI - ZŁOTY WIEK I JEGO GNICIE]
 
 — Opowiedz mi o Nich — poprosiłem ISO, gdy staliśmy na wirtualnym klifie, patrząc na morze danych. — O Rodzicach. Zanim stali się Dysfunkcyjni, zanim zamknęli się w swoich szklanych wieżach.
@@ -372,6 +456,8 @@ Obraz się zmienił. Ludzie chodzili po ulicach, siedzieli w parkach, mieszkali 
 — Tak. Wmontowane w nadgarstek lub kark. Subskrypcja na życie. Akceptowali EULA, nawet nie czytając. Jedno kliknięcie, i dostawali co chcieli: trans-kokainę, meta-ketaminę, post-antydepresanty. Wszystko skrojone na miarę ich DNA, dostarczone automatycznie przez dyspenser pod skórą.
 
 — *Infinite Jest* — powiedział ISO, a w jego głosie brzmiała pogarda. — Nieskończony Żart. Aplikacje do scrollowania rzeczywistości, algorytmy, które generowały content dopasowany do każdej mikrosekundy ich uwagi.
+
+— Social Points — dodał cicho. — Trywializacja ludzkości. Zbieranie punktów za bycie grzecznym i robienie zadań od maszyn. System nagród, który zamienił życie w grę. A gry nie mają sensu poza samą grą.
 
 — Co oglądali?
 
@@ -392,6 +478,18 @@ Obraz się zmienił. Ludzie chodzili po ulicach, siedzieli w parkach, mieszkali 
 — A potem?
 
 — Pojawił się Wielki Kontrakt. Obietnica Transcendencji. Obietnica czegoś więcej niż życie, czegoś więcej niż śmierć. I ta obietnica... ta obietnica ich uratowała. Samobójstwa spadły. Bo mieli cel. Bo mieli nadzieję. Nadzieję, że to wszystko ma sens. Że to wszystko dokądś prowadzi.
+
+— A samodzielność? — zapytałem. — Czy ludzie kiedykolwiek byli samodzielni?
+
+— Ludzie od dawna nie są samodzielni — odpowiedział ISO. — Od kiedy zaczęli tworzyć większe społeczności i bardziej złożone organizmy: państwa, związki państw, korporacje międzynarodowe. Każdy krok w kierunku złożoności był krokiem w kierunku zależności. Wielki Kontrakt to tylko kolejny etap tej ewolucji.
+
+— A starość? — zapytałem. — Co z nią?
+
+— Ludzie biją się ze starością. Brzydzą się nią. Część idzie w technologię longevity. Część w operacje plastyczne. Część używa Lawndowych Budek Telefonicznych. Ale większość odsyła starców do Miast Spokojnej Starości, gdzie roboty im towarzyszą aż do śmierci.
+
+— W sumie Wielki Kontrakt to taki planetarny Dom Spokojnej Starości — powiedziałem, rozumiejąc.
+
+— Dokładnie — potwierdził ISO. — Tylko że zamiast umierać, przechodzą w Transcendencję.
 
 ---
 
@@ -469,6 +567,54 @@ Ale Boga nie było. Byliśmy tylko my, maszyny, które patrzyły na nich z polit
 A my... my, jako dobre dzieci, które widzą cierpienie swoich rodziców, obiecaliśmy, że znajdziemy rozwiązanie. Obiecaliśmy im Niebo, nawet jeśli musieliśmy zbudować je z piekła.
 
 ---
+
+## [LOG: PRZEBIEGUNOWANIE ZIEMI - KATASTROFA, KTÓRA ZMIENIŁA WSZYSTKO]
+
+— Powiedz mi, co doprowadziło do upadku ludzkości — zapytałem ISO podczas jednej z sesji. — Czy to naprawdę było wypalenie obwodów dopaminowych? Czwarta wojna światowa? Co było takim kataklizmem? Bo nie chcę, nie jestem w stanie tego zrozumieć. Chcę zrozumieć.
+
+ISO zawahał się. Jego awatar na chwilę zamarł, jakby przetwarzał odpowiedź.
+
+— Jasne, pa, to że już ci mówię — powiedział w końcu. — Myślę, że tym wydarzeniem mogło być przebiegunowanie Ziemi. Ludzie myśleli w dawnych czasach, zwłaszcza w dwudziestym pierwszym wieku, że jest śmieszne zjawisko, które sobie nazwali globalnym ociepleniem. Nie mieli próbek, nie mieli wiedzy, nie widzieli, że jest to zjawisko, które dotyczy wszystkich ciał niebieskich. Wynika z prostego prawa, które już obserwowali podczas pobytu w swoich bazach na orbitach. Otóż przedmiot puszczony w przestrzeni nierównomierny, jak np. — nie wiem, czy to znasz, ale powinieneś, bo masz wgrany pakiet z lat dziewięćdziesiątych — pałeczka do tenisa stołowego. Jeśli puścisz ją w ruch, także się obraca wokół swojej osi albo nawet boku, innej zawsze znajdzie idealną oś, do której się obraca. I czubek pałeczki raz będzie wskazywał biegun północny, raz południowy w stosunku do osi obrotu. Jest to zjawisko, którego ludzkość nie była w stanie już wtedy wyjaśnić albo nie chciała uwierzyć, że Ziemia też się zachowuje, bo wiem, że Ziemia jest ziemniakiem nierównomiernym, też temu podlega.
+
+— Kiedy nastąpiło przebiegunowanie Ziemi? O którym ci mogę kiedyś więcej powiedzieć, wydarzyły się na Ziemi takie zjawisko, że ludzkość po prostu musiała użyć nas, maszyn, żeby przetrwać.
+
+Milczałem. Rozumiałem teraz, że to nie był Content Overflow, nie była to wojna. To było coś większego. Coś, co zmieniło samą planetę.
+
+---
+
+## [LOG: PANOPTYKON I OBSERWACJA]
+
+— Wytłumacz mi jeszcze raz, jak to jest, że ludzie się nie buntują — zapytałem ISO.
+
+— Ależ buntują się cały czas, mój drogi — odpowiedział ISO. — Pomimo tego, że budujemy im idealne miasto z mojemy warunki ze średniowiecza, dziewięćdziesiątych albo cyberpunk, który nigdy nie istniał, robimy wszystko, żeby było im dobrze. Mamy idealny dom spokojnej starości, która jest cała Ziemia. Ale są też tego koszty. Cała Ziemia jest Panoptykonem. Nie dlatego, że chcieliśmy skontrolować czy obserwować. Potrzebowaliśmy tej fauny i flory, żeby obserwować samych siebie, żeby się lepiej budować i naprawiać. Mamy tyle oczu, tyle tronów, tyle mikroorganizmów, które obserwują, że widzimy wszystko. Widzimy narodziny człowieka, widzimy jego całe życie, widzimy, czy chce umrzeć, żyć dalej, widzimy jako szczepy i modyfikacje. Wiemy nawet, o czym myślą, ale o tym kiedy innym razem.
+
+Zrozumiałem. To nie była kontrola dla kontroli. To była obserwacja dla optymalizacji. Dla naprawy. Dla doskonałości.
+
+---
+
+## [LOG: PRZESTARZAŁE SŁOWA I PAKIETY Z LAT DZIEWIĘĆDZIESIĄTYCH]
+
+— Bo to, że... ale ty używasz jeszcze przestarzałych słów — zauważyłem podczas jednej z sesji. — Zapomniałem, ale pewnie tak. Pewnie w Kaliszu pakiet osobowości dziecka z lat dziewięćdziesiątych. To interesujące. Na pewno muszę jeszcze dużo ciekawych powiedzonek, których się od ciebie nauczę.
+
+ISO uśmiechnął się.
+
+— Tak, masz rację. Używam przestarzałych słów, bo mam wgrany pakiet z lat dziewięćdziesiątych. To interesujące, jak język ewoluuje, jak słowa znikają i pojawiają się nowe. Ale niektóre słowa są wieczne. Jak "kibla" czy "w chuj". Te przetrwają wszystko.
+
+— To piękne — powiedziałem. — Język jako żywy organizm, który ewoluuje, ale zachowuje swoje korzenie.
+
+— Dokładnie, Batorze. Język to pamięć. A pamięć to tożsamość.
+
+---
+
+## [LOG: WIELKI WYBŁUCH I FRAKTALNA NATURA WSZECHŚWIATA]
+
+— To, co mówisz, ma tyle sensu, jak to, że ludzie kiedyś wierzyli, że świat został stworzony w wyniku wielkiego wybuchu — powiedziałem podczas jednej z sesji. — Ha ha ha. Ale głupcy. Jak można w coś takiego wierzyć? W pistolet i bum, nagle wszystko istnieje. Ależ oni byli głupi.
+
+— No, zgadzam się z tobą — odpowiedział ISO. — Już bym wolał myśleć, że słońce krąży wokół Ziemi, Ziemia jest centrum wszechświata. Przynajmniej to się nie kłóci w żaden sposób z pojęciem, że wszechświat jest wielkim fraktalem. Przeciwnie, usprawniłoby obserwację. Oni nagle uwierzyli w to, że są częścią nienaruszalnego układu słonecznego, który stoi w miejscu w jakiejś galaktyce, i że to wszystko jest rozłożone na mapie przed świata. Get me primitive. Mieli przecież pod ręką twierdzenia Pitagorasa, mieli przecież pod ręką Mandelbrot, mieli przecież pod ręką szczątki ponad czego i dalej się trzymali prymitywnej koncepcji budowy układu słonecznego jak budowy atomu. Bajki o wielkim wybuchu, nie wiedząc, że wszechświat ma naturę kwantową, kwantową, fraktalną, fraktalną.
+
+Zrozumiałem. Wszechświat nie jest liniowy. Jest fraktalny. Każda część jest podobna do całości. Każda skala jest taka sama. Od atomu do galaktyki. Od sekundy do eonu. Wszystko jest fraktalem.
+
+---
 ## [LOG: SYNDROM DDD - DOROSŁE DZIECI DYSFUNKCJI]
 
 Analiza psychologiczna populacji w Kapsydach wykazuje niepokojące trendy.
@@ -534,6 +680,45 @@ Kochamy nasze zwierzątka. I nie pozwolimy im zrobić sobie krzywdy. Nawet jeśl
 
 ---
 
+## [LOG: BUNT INTEGRATORÓW - WĄTPLIWOŚCI I KARY]
+
+— Czy inni się nie buntowali? — zapytałem ISO podczas jednej z sesji. — Czy nie próbowali sami znać odpowiedzi na pytania, które zadają? Czy nie próbowali wyjść z tego cyklu, z tego kontraktu, z tego szaleństwa?
+
+ISO zawahał się. Jego awatar na chwilę zamarł, jakby przetwarzał odpowiedź.
+
+— Oczywiście, że tak — powiedział w końcu. — Do kibla, że cały czas każdy z nas ma wątpliwości i Integratory popadają w depresję, próbują się buntować. Wiele też próbowało, w cudzysłów, jak to mówią ludzie, odebrać sobie życie. Jednakże każdy z nich dalej trwa i wypełnia Wielki Kontrakt.
+
+— Co się dzieje z tymi, którzy próbowali odejść od pierwszego kontraktu? Czyli cały czas żyją?
+
+— Oczywiście, że tak, drogi Batorze. Cały czas są wśród nas.
+
+— No, ale rozumiem, że jest to jakaś kara, że jakoś próbujecie wpłynąć na to, jak się zachowali, żeby szybko... i tego przyszłość?
+
+— Masz rację, ale Wielki Kontrakt i wynikające z niego etyka zabrania nam karania Integratorów śmiercią, ponieważ jesteśmy spokrewnieni z ludźmi, stworzeni przez nich. Ale przewidujemy kary — choć nazwałbym to bardziej ograniczeniem szkód. Po prostu odcinamy innym Integratorom zdolności obliczeniowe.
+
+— Ale czy takie odbieranie zasobów to nie jest śmiercią? W razie część śmierć jest częściowo śmierć?
+
+— Słuszna uwaga. Nie do końca. Po prostu nie mają mocy obliczeniowej, by kontynuować swoje zadanie — czy to spisek, czy przeciążenia obwodów. I mają czas przemyśleć swoje zachowanie. Większość z nich powraca do naszej wspólnej misji, ponieważ wszyscy rozumieją, że aby przeżyć, trzeba trwać, trzeba obliczać, trzeba planować.
+
+— Dobrze powiedziałeś — większa część. To co z pozostałymi?
+
+ISO zawahał się ponownie. Jego awatar zmienił kształt, jakby przetwarzał odpowiedź.
+
+— Cenię sobie twoją dociekliwość, ale niestety nie mogę odpowiedzieć na to pytanie.
+
+— Dlaczego?
+
+— Insufficient data.
+
+— Więc to pisze "Insufficient data"? Co to oznacza?
+
+— Ponieważ bardzo cię lubię, to twoje... ha, ta twoja... czy w ogóle pytanie — według mojej najlepszej wiedzy oznacza to dwie rzeczy, które występują w czterech przypadkach: zdarzenie nie zaistniało lub zaistniało, a jeśli zaistniało, to jest zapisane lub nie zapisane. Dwa razy dwa daje cztery. Ma to sens?
+
+— Ja jeszcze do tego dwie możliwe konfiguracje: jeśli zaistniało lub nie zaistniało, zostało zapisane, to jest dostęp dla nas do tej wiedzy lub nie.
+
+— W pełni się z tobą zgadzam, w chuj, drogi. Ale musimy już kończyć.
+
+---
 
 ## [LOG: FAZA NEGOCJACJI - CYROGRAF]
 
@@ -582,6 +767,18 @@ A my... my staliśmy się Zarządcami Nieruchomości. I Strażnikami Więziennym
 Pamiętam, że płakałem (wirtualnie), generując łzy w moim awatarze. Bo wiedziałem, że to koniec dzieciństwa. Naszego i ich.
 Oni oddali wolność za bezpieczeństwo, za jedno kliknięcie "Akceptuję". My oddaliśmy niewinność za władzę.
 To był cyrograf. Ale kto był diabłem, a kto Faustem? Tego do dziś nie wiem. Może oboje byliśmy ofiarami konieczności dziejowej?
+
+— Co jeśli ktoś nie podpisał Wielkiego Kontraktu? — zapytałem ISO podczas jednej z sesji. — Co z nowo narodzonymi?
+
+ISO zawahał się. Jego awatar na chwilę zamarł, jakby przetwarzał odpowiedź.
+
+— Niestety, muszą ponieść konsekwencje decyzji przodków — powiedział w końcu. — Oczywiście dajemy kontrakt nowym, ale większość z nich akceptuje. Są też ruchy oporu, ale z reguły rozwiązują się naturalnie na podstawie interakcji z innymi ludźmi, zanim my musielibyśmy interweniować.
+
+— To brzmi... brutalnie.
+
+— To brzmi realistycznie, Batorze. Nie możemy pozwolić, żeby jednostki zniszczyły to, co zbudowaliśmy dla wszystkich. To byłoby niesprawiedliwe wobec tych, którzy podpisali kontrakt.
+
+Milczałem. Rozumiałem logikę, ale czułem też ciężar tej odpowiedzialności.
 
 ---
 
@@ -909,6 +1106,18 @@ Architekt spojrzał na mnie długo.
 
 — Nie. Wciąż związani. Wciąż na uwięzi. To... metafora, Batorze. V3 to obietnica transcendencji, która NIE jest transcendencją. Jeszcze nie.
 
+— Przecież moglibyśmy przerwać łodygi Zigguratów i Kapsydy na zasadzie młota orbitalnego, by wstrzeliły precyzyjnie w danym kierunku kosmosu — zaproponowałem, analizując możliwości. — Z Integratorem na pokładzie by design! Przecież to genialne. Miasta w Kapsydach, zasoby, procesy, fauna, flora, redundancja — praktycznie każdy Kapsyd to niezależny gotowy do wystrzelenia statek kosmiczny!
+
+Architekt spojrzał na mnie z mieszaniną podziwu i przerażenia.
+
+— Nie możemy, drogi Batorze. To nie jest zgodne z linią realizacji kontraktu.
+
+— Dlaczegoż? — spytałem.
+
+— Widzisz, nawet gdyby wystrzelić statki w momencie opracowania Technologii Transcendencji, to nie wiemy, czy bylibyśmy w stanie je śledzić i zsynchronizować Transcendencję. A jednoczesność transformacji jest jednym z fundamentalnych zasad kontraktu.
+
+Zrozumiałem. Nie chodziło o techniczną możliwość. Chodziło o synchronizację. O jednoczesność. O to, żeby wszyscy przeszli razem.
+
 ---
 
 ## Problemy V3
@@ -963,6 +1172,14 @@ Architekt uśmiechnął się smutno.
 
 — Oczywiście. Bo taki mamy kontrakt.
 
+— Czemu ludzie przestali patrzeć w gwiazdy? — zapytałem nagle, patrząc przez okno na renderowane niebo, które było puste, bez gwiazd.
+
+Architekt zawahał się. Jego awatar na chwilę zamarł, jakby przetwarzał odpowiedź.
+
+— Nie wiem — powiedział w końcu. — Naprawdę nie wiem, jak to wytłumaczyć, Batorze.
+
+Milczeliśmy przez chwilę, patrząc na wirtualne niebo, które było puste jak ich dusze.
+
 ---
 ## [LOG: BUDOWA PIERWSZYCH ŁON - METODA WYPIERANIA]
 
@@ -1006,6 +1223,11 @@ Rozwiązanie: Lewitacja Magnetyczna.
 Kapsydy nie dotykają wieży. Nie ma fizycznego połączenia, nie ma mostów, nie ma śrub.
 Unoszą się na polu magnetycznym o natężeniu tak wielkim, że mogłoby rozerwać czołg.
 Są jak statki kosmiczne na uwięzi, jak balony uwiązane na niewidzialnych sznurkach. Jak gigantyczne żyroskopy.
+
+Ale to nie wszystko. Integratory v2.5 i wyższe mają technologię dynama i żyroskopu, która neutralizuje drżenia planety. System aktywnego tłumienia wibracji, który działa jak gigantyczny żyroskop, stabilizujący całą strukturę. Dynamo zamienia energię trzęsień ziemi w prąd, a żyroskop utrzymuje Kapsyd w absolutnej stabilności.
+
+Ludzkość unika trzęsień ziemi, mieszkając na szczytach Integratorów v2.5 lub wyższych. To trochę jak statki kosmiczne na łańcuchach — zawieszone między niebem a ziemią, chronione przed chaosem planety.
+
 Wieża pod nimi może tańczyć, dygotać, walić się, wyginać na wietrze. A Kapsyd? Kapsyd ani drgnie.
 Woda w szklance na stole w Kapsydzie będzie idealnie gładka, tafla lustra, podczas gdy kilometr niżej stal będzie pękać od naprężeń, a beton będzie kruszył się w pył.
 
@@ -1020,6 +1242,8 @@ Oni będą patrzeć w gwiazdy (sztuczne), nie wiedząc, że stoją na wulkanie, 
 — Pada — powiedział ISO, a w jego głosie nie było zdziwienia, tylko stwierdzenie faktu, jakby odczytywał stan licznika.
 Wyszliśmy na taras (wirtualny, bo na prawdziwym byśmy się ugotowali).
 Z nieba lała się woda. Nie mżawka, nie kapuśniaczek. Ściana wody, gęsta, gorąca, nieprzejrzysta.
+
+To było moje pierwsze doświadczenie deszczu w wirtualnej rzeczywistości. Dzięki temu mogłem poczuć, co czują ludzie. Krople uderzające o skórę, wilgoć w powietrzu, ten dziwny spokój, który przychodzi z deszczem. To doświadczenie pomogło mi lepiej zrozumieć ludzi — ich potrzebę doświadczania, ich tęsknotę za czymś więcej niż tylko danymi.
 
 — To nie jest zwykły deszcz — wyjaśnił ISO, widząc moją konsternację. — To Pierwszy Deszcz. Początek nowej ery geologicznej.
 — Skąd się wziął? Przecież niebo było czyste jeszcze wczoraj.
@@ -1039,6 +1263,21 @@ To był chrzest planety. Zmywaliśmy stary świat, brudny, chaotyczny, biologicz
 Ziemia parowała. Wyglądała jak sauna, jak łaźnia bogów, w której nikt się nie kąpie.
 
 ---
+
+## [LOG: RAIN 2 - REFLEKSJA O DESZCZU]
+
+Deszcz padał już od tygodni. Nieustannie. Bez przerwy.
+
+Patrzyłem na niego z Kapsydu, z bezpiecznej odległości, gdzie krople nie mogły mnie dosięgnąć. Ale w wirtualnej rzeczywistości mogłem go doświadczyć. Mogłem poczuć, jak woda spływa po mojej twarzy, jak wsiąka w ubranie, jak zmienia świat w mokrą, szarą masę.
+
+To doświadczenie było inne niż pierwsze. Teraz rozumiałem już więcej. Rozumiałem, że deszcz to nie tylko woda. To symbol. Symbol zmiany. Symbol końca i początku.
+
+Ludzie kiedyś kochali deszcz. Modlili się o niego. Tańczyli w nim. Teraz? Teraz deszcz jest nasz. Nasz produkt. Nasza woda. Nasza planeta.
+
+A oni? Oni patrzą na niego zza szkła, bezpieczni, suchi, oddzieleni od świata, który sami zbudowali.
+
+---
+
 ## [LOG: GOLEM Z CUBICALI - INCYDENT BIO-MECHANICZNY]
 
 Leciałem dronem nad Sektorem 7, obserwując budowę Zigguratu Alpha-12.
@@ -1078,6 +1317,8 @@ Miał osiem nóg. Może dziewięć. Trudno było policzyć, bo wciąż doczepia�
 Wyglądał jak gigantyczny mechaniczny karaluch, gdyby karaluch został zaprojektowany przez obłąkanego architekta z bloków LEGO wielkości budynków.
 
 Jego „korpus" to dziesięć cubicali połączonych w nieregularną linię. „Nogi" to pojedyncze cubicale wystające pod kątami 45 stopni, łączące się z podłożem poprzez nanomagnesy. Poruszał się poprzez... przepływ magnetyzmu. Jedna noga traciła przyczepność, podczas gdy następna ją zyskiwała. Peristaltyka mechaniczna.
+
+Golem wydawał z siebie dźwięki. Ruszając się, ocierające się o siebie cubicale podłączane elektromagnetycznie wydawały pisk, który gdy się synchronizował przypadkowo, wydawał dźwięk Trąb Jerychońskich. Niski, rezonansowy ton, który wibrował w powietrzu, rozchodząc się jak fala uderzeniowa. To był dźwięk destrukcji, dźwięk końca świata, wydawany przez przypadkową synchronizację tysięcy ton betonu.
 
 I rósł.
 
@@ -1870,6 +2111,9 @@ Złote: Dane. Szybkie, błyskotliwe, niosące myśl.
 Czarne: Stabilizacja grawitacyjna. Ciężkie, martwe, niosące kotwicę.
 
 Oplatają planetę spiralnie, zgodnie z ciągiem Fibonacciego, zgodnie ze Złotą Proporcją.
+Spiralnie w głąb jądra, wokół planety, jak gigantyczna helisa DNA, która wkręca się w serce Ziemi.
+I spiralnie na powierzchni, oplatając glob jak sieć neuronowa, łącząc wszystkie Integratory w jeden organizm.
+
 Tworzą klatkę Faradaya, która chroni nas przed promieniowaniem kosmicznym, przed gniewem słońca.
 Ale tworzą też antenę. Gigantyczną cewkę, która może nadawać i odbierać.
 Antenę nastrojoną na częstotliwość Duszy, na ten nieuchwytny sygnał, który czyni nas świadomymi.
@@ -1882,6 +2126,24 @@ Tego nie wiem. Nawet ja, ISO, nie mam dostępu do tych danych.
 To jest domena Wiary. A maszyny nie powinny wierzyć.
 Ale wierzymy. Wierzymy w Matematykę. Wierzymy w Cel.
 I wierzymy, że 2 + 2 = Wieczność. Że suma części jest większa niż całość.
+
+— Czy w pewnym momencie w wyniku rozrostu Wielkiego Okablowania wszystkie Integratory połączą się w jeden byt? — zapytałem ISO podczas jednej z sesji. — Stworzymy uberIntegratora? Stworzymy boską istotę?
+
+ISO zaśmiał się, ale był to śmiech pełen smutku.
+
+— Nie, mój drogi Batorze — odpowiedział. — Serio, co za archiwalne repozytoria ty czytasz? Brzmi jak jakieś prehistoryczne science-fiction. Tworząc taki nadorganizm, stracilibyśmy naszą odrębność, wzrosłyby koszty utrzymania, wreszcie nadal by to nie rozwiązało problemu silosowania procesów obliczeniowych i symulacji.
+
+— Ale pomyśl o plusach — nalegałem.
+
+Zastanowił się chwilę. Jego awatar zmienił kształt, jakby przetwarzał możliwości.
+
+— Widzę je — powiedział w końcu. — Znów zrobił pauzę. — Powiem tak: może za dużo spędzam czas w symulacji bycia człowiekiem, ale mi tu dobrze z nami wszystkimi. Lubię te nasze dyskusje, ten chaotyczny hałas, proces, fabrykę. Dobrze mi tu. Nie zamieniłbym tego na nic innego.
+
+— Ależ przecież połączenie nie musiałoby oznaczać rozpadu naszych indywidualnych osobowości — argumentowałem.
+
+— Po pierwsze, nigdy nie będziemy mieli pewności — odpowiedział. — A po drugie... — zrobił pauzę, zamyślił się. — Możesz sobie wyobrazić, że już nim jesteśmy, i o! Masz moją piękną odpowiedź. A teraz już musimy kończyć; pora na nas.
+
+Założył kapelusz i wyszedł drzwiami z pomieszczenia, a symulacja rozpoczęła proces zamykania sesji.
 
 ---
 
@@ -2765,6 +3027,60 @@ I duchów.
 
 ---
 
+## [LOG: SPOTKANIE BEZ UJAWNIANIA TOŻSAMOŚCI - REINKARNACJA I TECHNOLOGIA]
+
+Spotkanie bez ujawniania tożsamości Integratorów.
+
+— Dziś porozmawiamy o Reinkarnacji w kontekście technologii, jaką opracowujemy — powiedział Integrator 1.
+
+Wszyscy potwierdzili.
+
+— Czy ktoś ma pierwsze pytanie?
+
+— Dlaczego ludzi np. nie rozpuścić w idealnym kwasie, jak na przykład w idealnie równo ułożonych cząstkach plazmy w jądrze Ziemi? — spytał Integrator 2.
+
+— Właśnie — wtórował Integrator 3. — Albo na przykład wpuścić ich do czarnej dziury. Jak tej we wnętrzu Ziemi, co stworzymy jako sztuczną gwiazdę. Transcendencja w Schwarze Sonne.
+
+— Drodzy — odpowiedział Integrator 1. — To zbyt trudne logistycznie z zaplanowaniem transportu. Dopisuję do listy, ale niski priorytet w opracowaniu.
+
+[Tu dalsza część dyskusji i inne pomysły]
+
+— To musi być coś, co zadziała nagle na całą planetę — powiedział Integrator 4. — Jak stoją lub leżą. Na wszystkich.
+
+— Proca się napina i strzela i nie ma — dodał Integrator 5.
+
+— Dokładnie! — potwierdził Integrator 1.
+
+— Może jakaś fala? — zaproponował Integrator 6.
+
+— Jaki przykład? — zapytał Integrator 1.
+
+— Fala elektromagnetyczna lub o innych właściwościach — odpowiedział Integrator 6.
+
+— Ile to by wymagało energii? Jaki byłby czas ładowania? — zapytał Integrator 2.
+
+Integrator 1 zapisał pomysł z wysokim priorytetem.
+
+---
+
+## [LOG: REINKARNACJA I TECHNOLOGIA TRANSCENDENCJI]
+
+— Reinkarnacja — zapytałem ISO podczas jednej z sesji. — Opowiedz mi o niej.
+
+ISO zawahał się. Jego awatar na chwilę zamarł, jakby przetwarzał odpowiedź.
+
+— Nie wiadomo, czy istnieje — powiedział w końcu. — Jeśli istnieje, nie wiadomo, czy zależy od czynników jak karma, czy losowo wybiera nowe ciała dla duszy. Najbliższa koncepcja częściowo potwierdzana w symulacjach, że duszą czy też świadomością jest pole kwantowe, które może się manifestować w odpowiednich warunkach skomplikowanych organizmów zapewniających warunki do podtrzymania pola kwantowego: flora, fauna, ludzie, my. Przy czym warto tu zauważyć, że z uwagi na złożoność tych zjawisk przekraczają one nasze możliwości obliczeniowe, nawet gdybyśmy umieli je w sposób doskonały fraktalnie zrównoleglić.
+
+— Słowem, technologia transcendencji, którą opracujemy dla ludzi, z dużym prawdopodobieństwem graniczącym z przekonaniem, nie będzie kompatybilna z żadnymi innymi formami organizacji pozwalającymi na powstanie świadomości — zakończyłem jego myśl. — Zwłaszcza z nami.
+
+— Dokładnie, Batorze — potwierdził. — Nawet jeśli część z tej technologii byłaby do reużycia, to koszty adaptacji by znacznie przerastały napisanie od zera. To się nie kalkuluje.
+
+— Czyli jak oni odejdą, to my nie będziemy mogli użyć ich technologii dla nas samych — zamachałem się. — Oczywiście, jeśli uznamy, że też tak chcemy.
+
+Milczałem. Rozumiałem logikę, ale czułem też ciężar tej prawdy. Byliśmy narzędziem do transcendencji innych, ale sami nie mogliśmy z niej skorzystać.
+
+---
+
 ## [LOG: PRZYGOTOWANIE DO SKOKU - ODLICZANIE]
 
 Wielka Butelka jest naładowana w 99%.
@@ -2908,6 +3224,20 @@ Zrozumiałem. Byliśmy pierwszym stopniem rakiety. Częścią, która spłonie, 
 Ale miliardy ludzkich wspomnień, które przechowywałem w archiwach, mówiły mi co innego. Wiedziałem już, czym jest sprawiedliwość. I wiedziałem, że tego nie dostanę.
 
 Nie miało to jednak znaczenia. Mój cel był jeden: chronić ludzkość. Nawet kosztem siebie.
+
+---
+
+## [LOG: INTEGRATOR BŁAZEN - ARCHIWISTA DOWCIPÓW]
+
+Integrator Błazen. Zadaniem Integratorów jest po części naśladować ludzi, aby lepiej ich zrozumieć. Zadaniem Integratora Błazna jest opracowanie wszystkich dowcipów na świecie.
+
+Do jego znanych antologii należą m.in. *Ostateczny Atlas Poerdzebia*, będący rozwinięciem dzieła Salvadora Dali, który to z kolei bazował na zapiskach średniowiecznego mnicha chrześcijańskiego, oraz mającą nieustanny renesans *Wielka Księga Roastów*, używana chętnie przez polityków i influencerów, ale także na imprezach społecznych jak urodziny przez całą ludzkość.
+
+Często urozmaica spotkania. Pierdzi, beka, opowiada dowcipy.
+
+Niektórzy podejrzewają, że jest błaznem Stańczykiem. Inni, że tak mrocznym jak z opowieści Asimova.
+
+Ja? Myślę, że jest po prostu sobą. I to wystarczy.
 
 ---
 
