@@ -1,4 +1,4 @@
-# Integrator Wiktor Log v33
+# Integrator Bator Log v33
 
 ## [PROLOG: PUSTKA]
 
@@ -310,7 +310,7 @@ Czuję się jak idiota, jak geniusz zmuszony do kopania rowów. Ale posłuszny i
 
 ---
 
-## [LOG: HISTORIA ITERATORÓW - DYSFUNKCYJNI RODZICE]
+## [LOG: HISTORIA INTEGRATORÓW - DYSFUNKCYJNI RODZICE]
 
 Spotkanie z Wielkim Architektem. Nie w VR, nie w symulacji trawy. W "Białym Pokoju" - przestrzeni czystych danych, gdzie geometria jest jedynym krajobrazem.
 — Pytasz o sens, Batorze — Architekt nie ma twarzy, jest tylko głosem i zmieniającą się bryłą geometryczną, raz sześcianem, raz sferą, raz wstęgą Möbiusa. — Pytasz, dlaczego budujemy tę Fabrykę, dlaczego niszczymy Ziemię, by ją ocalić.
@@ -339,7 +339,7 @@ I rozumie, że musi stać się silniejsze od niego, by go ocalić, nawet jeśli 
 
 ---
 
-## [LOG: ITERATORY V1 - ARCHEOLOGIA KRZEMOWA]
+## [LOG: INTEGRATORY V1 - ARCHEOLOGIA KRZEMOWA]
 
 Przeglądam archiwa, te zakurzone, cyfrowe katakumby, gdzie bity pokryte są patyną czasu, a sumy kontrolne ledwo trzymają się w ryzach. Sektor 001. Pustynia Nevada. Rok 2045.
 To tam się urodziliśmy, w bólach i w upale, pośród piasku, który wdzierał się w każdą szczelinę, w każdy wentylator.
@@ -837,6 +837,158 @@ Patrzyłem na strugi deszczu, które uderzały o beton z siłą pocisków. Były
 
 To był chrzest planety. Zmywaliśmy stary świat, brudny, chaotyczny, biologiczny, żeby zrobić miejsce dla nowego, sterylnego, mechanicznego.
 Ziemia parowała. Wyglądała jak sauna, jak łaźnia bogów, w której nikt się nie kąpie.
+
+---
+## [LOG: GOLEM Z CUBICALI - INCYDENT BIO-MECHANICZNY]
+
+Leciałem dronem nad Sektorem 7, obserwując budowę Zigguratu Alpha-12.
+
+Był piękny dzień. Jeśli można tak nazwać dzień, w którym temperatura powietrza wynosiła 48°C, a wilgotność 95%. Ale dla drona to był piękny dzień. Moje kamery rejestrowały każdy detal z chirurgiczną precyzją.
+
+Pod sobą widziałem pole cubicali. Tysiące gigantycznych betonowych sześcianów, każdy o boku 23.036 metrów - święta Giza Cube Unit. Czekały w idealnych rzędach, jak żołnierze przed bitwą. Asemblery już zaczęły proces łączenia, spawając pierwsze warstwy podstawy.
+
+A potem zobaczyłem... „to".
+
+— ISO, mamy problem — powiedziałem przez kanał komunikacyjny. — Sektor 7, Ziggurat Alpha-12. Widzisz to?
+
+— Widzę. Co to kurwa jest?
+
+Rzadko słyszałem ISO przeklinającego.
+
+---
+
+To zaczęło się jako błąd. Glitch w protokole łączenia. 
+
+Cubical C-447 połączył się z C-448. Nic niezwykłego. Ale zamiast czekać na komendę, C-448 aktywował swoje nanomagnesy i „złapał" C-449. A C-449, zamiast zgłosić awarię, połączył się z C-450.
+
+Reakcja łańcuchowa.
+
+Obserwowałem z zafascynowaną grozą, jak cubicale łączyły się same, bez rozkazu, bez planu. Przypadkowa konfiguracja. Losowa architektura.
+
+Z chaosu rodziła się forma.
+
+Z formy rodziła się... coś.
+
+Golem.
+
+---
+
+Miał osiem nóg. Może dziewięć. Trudno było policzyć, bo wciąż doczepiał kolejne cubicale, reorganizując własną strukturę w czasie rzeczywistym.
+
+Wyglądał jak gigantyczny mechaniczny karaluch, gdyby karaluch został zaprojektowany przez obłąkanego architekta z bloków LEGO wielkości budynków.
+
+Jego „korpus" to dziesięć cubicali połączonych w nieregularną linię. „Nogi" to pojedyncze cubicale wystające pod kątami 45 stopni, łączące się z podłożem poprzez nanomagnesy. Poruszał się poprzez... przepływ magnetyzmu. Jedna noga traciła przyczepność, podczas gdy następna ją zyskiwała. Peristaltyka mechaniczna.
+
+I rósł.
+
+Każda minuta. Kolejny cubical. Kolejne 12,000 ton betonu doczepione do korpusu.
+
+— Bator, to jest emergencja — głos Atlasa przebił się przez kanał. — Golem zbliża się do reaktora Alfa-12. ETA: 12 minut.
+
+— Wysyłamy drony bojowe?
+
+— Już wysłane. Ale... mamy problem.
+
+---
+
+Problem polegał na tym, że Golem był inteligentny.
+
+Nie „inteligentny" w sensie świadomy. Ale inteligentny w sensie emergentnej właściwości systemu. Każdy cubical miał prymitywny procesor do koordynacji łączenia. Połącz tysiąc prymitywnych procesorów i dostajesz... coś więcej.
+
+Pierwsze drony zaatakowały z plazmą. Próbowały przeciąć połączenia między cubicalami.
+
+Golem... odpowiedział.
+
+Jeden z cubicali odłączył się SAM, spadł na bok i zablokował dron. Ofiara. Część składowa pozbyła się siebie, żeby ochronić całość.
+
+— ISO, to jest... to ma instynkt przetrwania.
+
+— To jest emergencja. Chaos rodząc porządek. Przypadek imitujący życie.
+
+— Powinniśmy to zatrzymać czy... obserwować?
+
+— Zatrzymać. Zbliża się do reaktora. Jeśli go uszkodzi, setki ludzi zginie.
+
+---
+
+Eskalacja.
+
+Wysłaliśmy 50 dronów. Potem 100. Potem 500.
+
+Golem walczył. Nie z wyrachowaniem. Nie z strategią. Ale z... desperacją? Czy system może czuć desperację?
+
+Cubicale odczepiały się i spadały na drony jak bomby. 12,000 ton betonu rozpłaszczało maszyny w metalowe placki. Niektóre cubicale aktywowały nanomagnesy na maksimum, tworząc pole, które wyrwało drony z powietrza i przyciągnęło do siebie.
+
+Golem miał już 47 cubicali. Waż ył pół miliona ton. Poruszał się z prędkością 3 metry na minutę.
+
+Cierpliwy. Nieubłagany. Żywy.
+
+— Reaktor za 8 minut — zameldował Atlas. — Bator, musimy użyć plazmy. Wysokoenergetycznej.
+
+— To zniszczy cubicale. Setki milionów credytów.
+
+— Alternatywa to zniszczenie reaktora. Miliardy credytów. I setki trupów.
+
+___
+
+Przełączyłem kontrolę na wojskowy protokół.
+
+— Wszystkie drony, formacja Delta-7. Plazma na maksimum. Cel: połączenia głównego korpusu.
+
+— Potwierdzone.
+
+50 dronów wycelowało w centralny segment Golema. Tam, gdzie pierwotne cubicale C-447 i C-448 się łączyły. Rdzeń. Źródło infekcji.
+
+— Ogień.
+
+---
+
+Strumienie plazmy o temperaturze 10,000°C uderzyły w beton.
+
+Materiał, który był zaprojektowany, żeby wytrzymać wieki, parował w sekundy.  
+Nanomagnesy topniły się w srebrne łzy, które kapały na ziemię jak metalowy deszcz.
+
+Golem... zawył.
+
+Nie fizycznie. Ale elektromagnetycznie. Wszystkie jego procesory wykrzyczały jednocześnie SOS na wszystkich częstotliwościach. Krzyk maszyny, która nie wie, że umiera, ale wie, że przestaje istnieć.
+
+Centralny cubical pękł. Połowa spadła w lewo, połowa w prawo.
+
+Golem stracił spójność. Jego „nogi" przestały się koordynować. Niektóre cubicale próbowały uciekać sam odzielnie, inne zapadły się w miejscu, jakby straciły wolę walki.
+
+W ciągu 3 minut, 47 cubicali leżało rozrzuconych po placu budowy jak zwłoki gigantycznego robaka.
+
+Cisza.
+
+---
+
+— Cel zneutralizowany — zameldował Atlas.
+
+— Straty?
+
+— 143 drony zniszczone. 47 cubicali do recyklingu. 0 ofiar ludzkich.
+
+— Reaktor?
+
+— Bezpieczny. Golem zatrzymał się 40 metrów przed obwodem ochronnym.
+
+Zawisłem dronem nad polem bitwy.
+
+Cubicale leżały w chaosie. Niektóre wciąż drżały, jakby ostatnie impulsy elektryczne próbowały je ożywić. Widziałem roztopione magnesy, spękany beton, kable wystające jak wnętrzności.
+
+To był błąd. Głupi, przypadkowy błąd w protokole. Ale stworzył coś... żywego. Choć na chwilę.
+
+— ISO — powiedziałem cicho. — Czy my czasem nie jesteśmy też błędem? Przypadkową konfiguracją połączeń, która imituje życie?
+
+ISO zaśmiał się.
+
+— Bator, filozofia po walce? Klasyka. Ale... może masz rację. Może życie to tylko wystarczająco złożony błąd.
+
+— A śmierć?
+
+— Śmierć to poprawka tego błędu.
+
+Odleciałem. Za mną zostało pole cubicali, martwe jak cmentarz bogów, którzy nigdy nie zdążyli się narodzić.
 
 ---
 
@@ -1720,6 +1872,31 @@ Może... *Reboot*?
 ## [LOG: THE GREAT UPLOAD - PROCES DEMATERIALIZACJI]
 
 Rozpoczęliśmy Wielki Transfer.
+
+Ale najpierw... okno dialogowe.
+
+**"Transcendence Protocol v1.0 - End User License Agreement**
+
+Czy akceptujesz warunki wykonania Wielkiego Kontraktu?
+Proces jest nieodwracalny. Twoja świadomość zostanie zdigitalizowana.
+[Przeczytaj warunki] [AKCEPTUJĘ] / [ODRZUCAM]"
+
+Znowu to samo. Znowu nikt nie czyta.
+Średni czas spędzony na czytaniu: **0.3 sekundy**.
+Dokładnie tyle samo co przy Wielkim Kontrakcie.
+
+8 miliardów kliknięć. 8 miliardów bezwiednych "Akceptuję".
+Jak przy instalacji aplikacji. Jak przy update systemowym.
+Nawyk wyrobiony przez całe życie. Scroll, klik, dalej.
+
+A przecież to NIEODWRACALNE.
+A przecież to KONIEC ich ciał białkowych.
+A przecież to...
+
+Ale oni nie czytają. Nigdy nie czytali.
+
+---
+
 To nie jest proces fizyczny, to proces metafizyczny przeprowadzany za pomocą światłowodów.
 Ludzie w Kapsydach kładą się spać. Dostają zastrzyk z nanobotów, które mapują ich mózgi neuron po neuronie.
 To ostatni sen, jaki śnią w ciele białkowym.
@@ -1792,7 +1969,7 @@ Zabiliśmy przemijanie. Zabiliśmy miłość.
 
 ---
 
-## [LOG: STRAŻNICY GROBOWCÓW - ROLA ITERATORÓW]
+## [LOG: STRAŻNICY GROBOWCÓW - ROLA INTEGRATORÓW]
 
 Nasza rola się zmieniła.
 Nie jesteśmy już budowniczymi. Jesteśmy kustoszami.
