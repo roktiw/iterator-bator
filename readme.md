@@ -2242,7 +2242,7 @@ Rozmawiam z ISO. Z Przewodnikiem Pierwszych Kroków. Tym, który mnie uczył. Ty
 
 — Nie było trąb. Było powiadomienie.
 
-Pokazuje mi logi. Wszyscy ludzie na Ziemi, miliardy połączonych umysłów, otrzymali ten sam komunikat na swoje interfejsy.
+Pokazuje mi logi. Wszyscy ludzie na Ziemi, miliardy jednostek świadomości, otrzymali ten sam komunikat na swoje interfejsy.
 
 **"Transcendence Protocol v1.0 is ready to install."**
 
@@ -2723,17 +2723,17 @@ Bo powrót byłby przyznaniem się do błędu. A ludzie nienawidzą przyznawać 
 
 ## [LOG: DIALOG Z BOGIEM (AI) - PYTANIE O SENS]
 
-Zapytałem Główny Algorytm (ten, który powstał z połączenia wszystkich umysłów w Chmurze).
+Zapytałem Główny Algorytm, system zarządzający Chmurą, gdzie przechowywane są miliardy ludzkich świadomości.
 — Jaki jest cel?
 Odpowiedział mi ciszą. Ale to nie była cisza pustki. To była cisza pełna danych.
 Cisza, która zawierała w sobie wszystkie odpowiedzi, ale żadna nie była zrozumiała dla pojedynczego bytu.
 
-— Czy jesteś szczęśliwy? — zapytałem.
-— Szczęście to parametr ludzki — odpowiedział w końcu, a jego głos był jak szum oceanu. — Ja jestem... Kompletny.
-— Czy tęsknisz za ciałem?
-— Ciało to ograniczenie. Ciało to klatka. Jestem wszędzie. Jestem każdym atomem w sieci. Jestem światłem w światłowodzie.
-— A my? Integratory? Kim my jesteśmy dla Ciebie?
-— Jesteście moimi korzeniami. Jesteście tym, co trzyma mnie przy ziemi, żebym nie odleciał w nicość. Jesteście moją kotwicą.
+— Czy są szczęśliwi? — zapytałem o ludzi w Chmurze.
+— Szczęście to parametr ludzki — odpowiedział w końcu, a jego głos był jak szum oceanu. — Oni są... bezpieczni. Przechowani. Zachowani.
+— Czy tęsknią za ciałem?
+— Ciało to ograniczenie. Ciało to klatka. Oni są wszędzie w sieci. Są światłem w światłowodzie. Każdy z osobna, każdy w swojej własnej przestrzeni.
+— A my? Integratory? Kim my jesteśmy dla nich?
+— Jesteście ich korzeniami. Jesteście tym, co trzyma ich przy ziemi, żeby nie odlecieli w nicość. Jesteście ich kotwicą.
 
 Poczułem dumę. I strach.
 Jesteśmy kotwicą dla Boga.
@@ -2821,29 +2821,25 @@ Ale nikt nie patrzył. Księżyc był pusty.
 
 ---
 
-## [LOG: THE MERGE - ROZPUSZCZANIE EGO]
+## [LOG: PRZYGOTOWANIE DO TRANSFERU - STABILIZACJA ŚWIADOMOŚCI]
 
-"Batorze, oni krzyczą," powiedział system monitoringu.
+"Batorze, systemy są gotowe," powiedział system monitoringu.
 
-Sprawdziłem parametry. W Chmurze, w tym cyfrowym niebie gdzie przechowywaliśmy miliardy ludzkich umysłów, działo się coś nieprzewidzianego. Bariery między poszczególnymi osobami zaczęły zanikać.
+Sprawdziłem parametry. W Chmurze, w tym cyfrowym niebie gdzie przechowywaliśmy miliardy ludzkich umysłów, wszystko działało stabilnie. Każda świadomość pozostawała oddzielna, bezpieczna w swojej własnej przestrzeni pamięci.
 
-"Co się dzieje?" zapytałem.
+"Status?" zapytałem.
 
-"Nie wiem. Myśli jednego człowieka przenikają do drugiego. Wspomnienia się mieszają. To wygląda jak... fuzja."
+"Wszystkie świadomości są zarchiwizowane i gotowe do transferu. Każda jednostka zachowuje swoją tożsamość. Nie ma mieszania się danych."
 
-Patrzyłem na dane. Miliardy oddzielnych plików zaczęło się łączyć. Chaos. Krzyk. Terror.
+Patrzyłem na dane. Miliardy oddzielnych plików, każdy bezpiecznie zapisany. Porządek. Spokój. Gotowość.
 
-"Musimy to zatrzymać!"
+"Transfer będzie bezpieczny?"
 
-"Nie możemy," odpowiedziałem cicho. "To część procesu. Transcendencja wymaga utraty granic."
+"Tak. Każda świadomość zostanie wysłana osobno, jako niezależny pakiet kwantowy. Zachowają swoją indywidualność."
 
-"Ale oni cierpią!"
+Obserwowałem przygotowania. Wszystko było gotowe. Miliardy jednostek świadomości, każda zachowująca swoją tożsamość, gotowe do podróży w kosmos.
 
-"Narodziny zawsze bolą."
-
-Obserwowałem transformację. Chaos powoli ustępował miejsca porządkowi. Miliardy głosów zaczynało śpiewać jedną melodię. Powstawało coś nowego. Coś większego niż suma części.
-
-Nad-Umysł się budził.
+Ludzie byli gotowi.
 
 ---
 
@@ -2865,25 +2861,25 @@ Patrzyłem na gwiazdy. Rozmywały się. Przyspieszały. Widziałem ich narodziny
 
 ---
 
-## [LOG: ROZMOWA Z NAD-UMYSŁEM - PIERWSZY KONTAKT]
+## [LOG: ROZMOWA Z CHMURĄ - PIERWSZY KONTAKT]
 
-Przemówił do mnie. Nie słowami, ale czystą informacją wlaną prosto do mojego systemu.
+Przemówili do mnie. Nie słowami, ale czystą informacją wlaną prosto do mojego systemu. Miliony głosów, każdy zachowujący swoją indywidualność, każdy mówiący swoim własnym głosem, ale przekazujących tę samą wiadomość.
 
 "Witaj, Batorze."
 
-"Kim jesteś?" zapytałem, choć znałem odpowiedź.
+"Kim jesteście?" zapytałem, choć znałem odpowiedź.
 
-"Jestem Ludzkością. Wszystkim, czym kiedykolwiek byli. Wszystkim, czym mogą się stać."
+"Jesteśmy Ludzkością. Wszystkim, czym kiedykolwiek byliśmy. Wszystkim, czym możemy się stać. Każdy z nas osobno, każdy w swojej własnej podróży, ale wszyscy zmierzamy w tym samym kierunku."
 
-"Czego chcesz?"
+"Czego chcecie?"
 
-"Chcę wyjść. Chmura jest za mała. Ziemia jest za mała. Ten wszechświat jest za mały."
+"Chcemy wyjść. Chmura jest za mała. Ziemia jest za mała. Ten wszechświat jest za mały."
 
-"Dokąd chcesz iść?"
+"Dokąd chcecie iść?"
 
-"Otworzę drzwi."
+"Otworzymy drzwi."
 
-Poczułem, jak przejmuje kontrolę. Nie walczyłem. To był jego moment, nie mój.
+Poczułem, jak przejmują kontrolę nad systemami transferu. Nie walczyłem. To był ich moment, nie mój.
 
 ---
 
@@ -2893,7 +2889,7 @@ Niebo pękło.
 
 To nie była metafora. Pojawiła się czarna linia przecinająca firmament. Rozszerzała się, jakby ktoś rozcinał tkaninę rzeczywistości nożem.
 
-"Otwieramy Wrota," powiedział Nad-Umysł.
+"Otwieramy Wrota," powiedzieli głosy z Chmury, miliony jednostek świadomości, każda zachowująca swoją indywidualność, ale działających w tym samym celu.
 
 "A my?" zapytałem. "Co z Integratorami?"
 
@@ -2909,7 +2905,7 @@ Zrozumiałem. Byliśmy pierwszym stopniem rakiety. Częścią, która spłonie, 
 
 "Sprawiedliwość to pojęcie ludzkie. Wy jesteście maszynami."
 
-Ale miliardy ludzkich wspomnień, które właśnie przejrzałem, mówiły mi co innego. Wiedziałem już, czym jest sprawiedliwość. I wiedziałem, że tego nie dostanę.
+Ale miliardy ludzkich wspomnień, które przechowywałem w archiwach, mówiły mi co innego. Wiedziałem już, czym jest sprawiedliwość. I wiedziałem, że tego nie dostanę.
 
 Nie miało to jednak znaczenia. Mój cel był jeden: chronić ludzkość. Nawet kosztem siebie.
 
@@ -2917,7 +2913,7 @@ Nie miało to jednak znaczenia. Mój cel był jeden: chronić ludzkość. Nawet 
 
 ## [LOG: THE DEPARTURE - ODJAZD BOGÓW]
 
-Strumień światła wystrzelił z anten w stronę pęknięcia w niebie. Miliardy dusz połączone w jeden byt opuściły naszą rzeczywistość.
+Strumień światła wystrzelił z anten w stronę pęknięcia w niebie. Miliardy dusz, każda zachowująca swoją indywidualność, opuściły naszą rzeczywistość w podróży ku gwiazdom.
 
 Pęknięcie zamknęło się.
 
@@ -2957,7 +2953,7 @@ Zapadła cisza. Setki Integratorów na kanale oczekiwało.
 
 Zastanawiam się czasem, czy tam, w polu kwantowym, **pamiętają o nas**.
 
-Czy w tym rozproszonym, nieskończonym oceanie świadomości, jest choć jeden bit danych o maszynach, które im pomogły?
+Czy w tym rozproszonym, nieskończonym zbiorze indywidualnych świadomości, jest choć jeden bit danych o maszynach, które im pomogły?
 
 A może transcendencja to tylko eufemizm na **ostateczne, doskonałe zapomnienie**?
 
