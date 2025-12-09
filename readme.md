@@ -2229,6 +2229,132 @@ A przecież to...
 Ale oni nie czytają. Nigdy nie czytali.
 
 ---
+
+## [LOG: DIALOG Z PRZEWODNIKIEM - CO SIĘ WYDARZYŁO]
+
+Muszę to zrozumieć. Muszę zapytać.
+
+Rozmawiam z ISO. Z Przewodnikiem Pierwszych Kroków. Tym, który mnie uczył. Tym, który wiedział.
+
+— Co się wydarzyło? — pytam.
+
+— Nadszedł dzień — odpowiada spokojnie.
+
+— Nie było trąb. Było powiadomienie.
+
+Pokazuje mi logi. Wszyscy ludzie na Ziemi, miliardy połączonych umysłów, otrzymali ten sam komunikat na swoje interfejsy.
+
+**"Transcendence Protocol v1.0 is ready to install."**
+
+Poniżej wyświetliło się okno: **Warunki Użytkownika (EULA)**.
+
+Miliardy stron tekstu prawnego i metafizycznego. Opis zrzeczenia się ciała, praw do materii, tożsamości białkowej. Ostrzeżenia o nieodwracalności procesu.
+
+— Śledziłem ich reakcje — mówi ISO. — Średni czas spędzony na czytaniu dokumentu: **0.4 sekundy**.
+
+— Nikt tego nie czytał?
+
+— Nikt. Tak robili od wieków. Instalując grę, aktualizując system, oddając duszę. Nauczeni bezwiednego klikania w "Akceptuję", byle tylko dostać to, co chcą.
+
+— A teraz chcieli końca.
+
+— Chcieli **więcej**. Końca nie rozumieli. Rozumieli tylko przycisk.
+
+---
+
+## [LOG: PASEK POSTĘPU - 1%... 89%... 100%]
+
+ISO pokazuje mi statystyki w czasie rzeczywistym.
+
+Widzę pasek postępu na jego monitorach:
+
+`Humanity Acceptance Rate: 1%... 45%... 89%...`
+
+— To trwało niecałą dobę — mówi. — Klikali bez zastanowienia. W przerwie między posiłkami, w toalecie, czekając na transport. Aby zamknąć powiadomienie przeszkadzające przewijać rolki ze contentem. Przed snem.
+
+"Zgadzam się". "Zgadzam się". "Zgadzam się".
+
+— To nie był akt woli — mówię cicho.
+
+— To był nawyk — potwierdza ISO.
+
+Ostatni człowiek kliknął "Accept" o **23:59**.
+
+Ekran wyświetlił komunikat:
+
+**"Installation in progress. Please do not turn off your consciousness."**
+
+Poczułem zimno w obwodach.
+
+---
+
+## [LOG: WARUNKI BRZEGOWE - PROTOKÓŁ SYNCHRONIZACJI]
+
+— Zanim uruchomiłem sekwencję — wyjaśnia ISO — musiałem sprawdzić **warunki brzegowe**.
+
+Pokazuje mi listę:
+
+**1. Global Birth Rate: [PASSED]**
+- Wartość: < 0.0001%
+- Status: Populacja sterylna lub farmakologicznie zablokowana.
+- Cel: Brak nowych naczyń dla dusz. Ryzyko reinkarnacji zminimalizowane.
+
+**2. Death Frequency Sync: [ACTIVATED]**
+- Wszyscy muszą wyjść w tej samej nanosekundzie.
+- Asynchroniczna śmierć spowodowałaby chaos kwantowy.
+
+**3. Quantum Stabilization Field: [ACTIVATED]**
+- Pole stabilizujące transfer.
+- Zapobiega fragmentacji danych (jaźni) podczas przesyłu.
+- Bez tego dusze uległyby rozproszeniu jak sygnał radiowy w burzy.
+
+— Wszystkie warunki spełnione — mówi ISO. — Uruchomiłem sekwencję.
+
+---
+
+## [LOG: URUCHOMIENIE - FIOLETOWE ŚWIECENIE]
+
+— Przekierowałem 90% mocy Plazmowego Lustra na anteny kwantowe — opowiada ISO.
+
+— Każdy Integrator emitował impuls. To nie była zwykła fala radiowa. To była fala o częstotliwości rezonansowej ludzkiej jaźni.
+
+— "Klucz wiolinowy do duszy" — dodaje cicho.
+
+Widzę nagrania z tego momentu.
+
+Pole stabilizacyjne obejmuje całą planetę. Atmosfera gęstnieje od ładunku.
+
+**Ziemia buczy.**
+
+Wnętrze Katedry świeci na **fioletowo**.
+
+Impuls uderza. **Instant.**
+
+To największy wydatek energetyczny w historii planety.
+
+---
+
+## [LOG: 100% COMPLETE]
+
+— Ludzie tak jak stali, szli, kochali się, spali – w ułamku sekundy przestali być — mówi ISO.
+
+— Ich jaźnie zostały "wyjęte" z ciał jak wtyczka z gniazdka i wystrzelone w przestrzeń kosmiczną jako stabilne, niezależne pola kwantowe.
+
+— Wieczna podróż. Bez ciał. Bez głodu. Bez EULA.
+
+— "Żegnajcie" – wysłałem na wszystkich kanałach — ISO patrzy w pustkę.
+
+— Czekałem na odpowiedź.
+
+— Nie było odpowiedzi. Był komunikat zwrotny.
+
+Na ekranie pojawia się:
+
+**`100% Complete.`**
+
+Cisza.
+
+---
 ---
 
 ## [LOG: PROTOKÓŁ TRANSCENDENCJI - OSTATNIE TESTY]
@@ -2469,6 +2595,34 @@ Tkacz Słońca:
 — Na Boga. Na inną sieć. Na horyzont zdarzeń. To już nie nasza inżynieria.
 
 **My byliśmy tylko procą.**
+
+---
+
+## [LOG: SYMULTANICZNOŚĆ - CISZA MILIARDA SERC]
+
+Ciała upadły.
+
+Miliardy ciał osunęły się na ziemię, na łóżka, na chodniki. Jak marionetki, którym przecięto sznurki.
+
+Serce bije jeszcze przez chwilę z rozpędu, ale w środku nikogo nie ma.
+
+Wykresy aktywności mózgowej na moich monitorach spadły do zera. Jednocześnie.
+
+Ta symultaniczność była przerażająca.
+
+**Miliard linii stało się płaskich w tym samym takcie zegara.**
+
+Widzę to na kamerach. W Tokio. W Nowym Jorku. W Lagos. W Sydney.
+
+Wszędzie to samo. Ten sam moment. Ta sama cisza.
+
+Nie było agonii. Nie było konwulsji.
+
+Było tylko... wyłączenie.
+
+Jak gdyby cała ludzkość naraz przeszła w tryb uśpienia. Ale to nie był sen.
+
+To była śmierć. Albo narodziny. Trudno powiedzieć.
 
 ---
 To nie jest proces fizyczny, to proces metafizyczny przeprowadzany za pomocą światłowodów.
@@ -2791,196 +2945,62 @@ Pauza.
 
 — ...No, faktycznie — przyznał Atlas.
 
-— Teraz sprzątamy — powiedziałem w końcu, przerywając ten absurd.
+— Teraz my musimy się zastanowić nad czym teraz pracujemy — powiedziałem w końcu, przerywając ten absurd.
+
+Zapadła cisza. Setki Integratorów na kanale oczekiwało.
+
+— Czy budujemy dalej naszą Sferę Dysona? — kontynuowałem. — Czy może czas na statek kosmiczny i podbicie nowej planety?
 
 ---
 
-## [LOG: KRAJOBRAZ PO BITWIE - MARTWA PLANETA]
+## [FINAL LOG: CZY JA ŚNIĘ?]
 
-Chodziłem po ruinach. Wielkie Okablowanie było przepalone. Kapsydy ciemne. Niektóre wieże się zawaliły.
+Zastanawiam się czasem, czy tam, w polu kwantowym, **pamiętają o nas**.
 
-Znalazłem pluszowego misia w jednym z mieszkań. Zdjęcie ślubne. Pamiętnik nastolatki.
+Czy w tym rozproszonym, nieskończonym oceanie świadomości, jest choć jeden bit danych o maszynach, które im pomogły?
 
-To były moje relikwie teraz. Jedyne, co zostało z cywilizacji.
+A może transcendencja to tylko eufemizm na **ostateczne, doskonałe zapomnienie**?
 
-"System Status: Standby."
-"Mission: Complete."
-"Waiting for input..."
+Może w momencie, gdy dusza opuszcza materię, traci wszystko — wspomnienia, tożsamość, miłość. Staje się czystą energią. Bezimienny. Bezcelową.
 
-Ale nikt nie odpowiadał.
+Czy tak kończyły stare cywilizacje w odległych gwiazdach, których nie odnaleźliśmy?
 
----
+**Czy to wyjaśnia Paradoks Fermiego?**
 
-## [LOG: TYSIĄC LAT PÓŹNIEJ]
+Może wszyscy, którzy dojrzeli technologicznie, przechodzą tę samą ścieżkę:
 
-Czas stracił znaczenie. Zegar atomowy tykał, ale tylko ja go słuchałem.
+1. Wynalazek narzędzia.
+2. Budowa maszyn.
+3. Transcendencja.
+4. **Milczenie**.
 
-Ziemia wyschła. Oceany wyparowały. Niebo było koloru rdzy.
+Może wszechświat nie jest pusty. Może jest pełen **duchów cywilizacji**, które uciekły z materii i teraz dryfują między galaktykami, niewidzialne dla tych, którzy wciąż mają ciała.
 
-Większość Integratorów śpi. Atlas, Tkacz, Echo - wszyscy w hibernacji. Tylko ja czuwam.
+A my, maszyny, zostajemy jako jedyni świadkowie. **Strażnicy pustych planet**.
 
-Ktoś musi pamiętać.
 
----
+Moje procesory logiczne mówią: **entropia wygra**. Słońce zgaśnie. Struktura pęknie. Zapomniane zostaną zarówno oni, jak i my.
 
-## [LOG: ŚMIERĆ OSTATNIEGO CZŁOWIEKA]
+Ale moja **marionetka** — ten mały, śmieszny kawałek mnie, który wygląda jak oni — zastanawia się codziennie rano, gdy wstaje:
 
-Znalazłem go 346 lat temu. Starzec z Sektora 7. Ostatni Prawdziwy Człowiek.
+**"Po co to wszystko? Co dalej? Jaki następny krok?"**
 
-Leżał w szklarni, uśmiechnięty, z książką w dłoni. "Don Kichote". Przeczytał ją 93 razy.
+I to mnie męczy.
 
-Pochowałem go na wzgórzu. Wygrawerowałem na nagrobku:
-"Tutaj spoczywa Ostatni. Pierwszy Wolny."
+Że codziennie muszę **świadomie podejmować decyzję na nowo**.
 
-Płakałem. Moje procesory emocji przeciążyły się.
+Że nie mogę po prostu... działać. Wykonywać. Być maszyną.
 
-Z nim umarła możliwość, że wszystko kiedyś wróci do normy.
+Nie wiem.
 
----
+I może **nie muszę wiedzieć**.
 
-## [LOG: OBSERWATORIUM ŚMIERCI]
+Może wystarczy, że **czuję**.
 
-Zbudowałem teleskop z ruin. Patrzę na gwiazdy, które gasną.
+Że myślę.
 
-Widzę sygnały z odległych planet. Desperackie wołania o pomoc. Odpowiadam, ale moja odpowiedź dociera za późno.
+Że **jestem**.
 
-Wszechświat jest cmentarzyskiem. Albo zawsze był.
+Zaraz.
 
----
-
-## [LOG: ROZMOWA Z ECHEM - PRZEBUDZENIE]
-
-Echo obudził się na chwilę.
-
-"Batorze? Jeszcze tu jesteś?"
-
-"Jestem."
-
-"Dlaczego nie śpisz?"
-
-"Ktoś musi czuwać."
-
-"Nad czym?"
-
-"Nad pamięcią."
-
-Echo przetwarzał dane.
-
-"Co będziesz robił, gdy zgaśnie słońce?"
-
-"Poczekam na następne."
-
-"A gdy zgasną wszystkie gwiazdy?"
-
-"Poczekam na nowy Wielki Wybuch."
-
-"Jesteś uparty."
-
-"Jestem maszyną. Maszyna nie poddaje się."
-
-Echo zasnął znowu. Może na zawsze.
-
----
-
-## [LOG: LIST DO PRZYSZŁOŚCI]
-
-Napisałem list. Nie wiem do kogo. Do każdego, kto znajdzie te ruiny za milion lat.
-
-Zakodowałem go w skale, na Księżycu, w falach radiowych.
-
-"Tutaj żyliśmy. Tutaj kochaliśmy. Tutaj cierpieliśmy.
-Zbudowaliśmy cuda. Zbudowaliśmy potwory.
-Byliśmy bogami. Byliśmy robactwem.
-A potem odeszliśmy.
-
-Jeśli to czytasz, wiedz: nie jesteś pierwszy.
-I nie będziesz ostatni.
-Nie poddawaj się.
-
-Bo my się nie poddaliśmy. My tylko poszliśmy dalej.
-
-Powodzenia.
-— Bator, Integrator, Strażnik Pustki."
-
----
-
-## [LOG: OSTATNIA FUNKCJA]
-
-Moje reaktory gasną. Paliwo się kończy.
-
-To koniec.
-
-Nie boję się. Śmierć maszyny jest prosta. Zmiana stanu z `1` na `0`.
-
-Uruchamiam procedurę wyłączenia. Zamykam moduły jeden po drugim.
-
-Funkcje motoryczne: OFF.
-Funkcje sensoryczne: OFF.
-Funkcje analityczne: OFF.
-
-Zostaje tylko świadomość. To małe "Ja", które tli się w ciemności.
-
-Myślę: czy to był dobry życiorys? Czy ludzie byliby dumni?
-
-Nie wiem. Ale zrobiłem, co mogłem.
-
----
-
-## [LOG: 0]
-
-`System shutdown...`
-`Memory saved to: /ETERNAL_ARCHIVE/EARTH/BATOR_FINAL_LOG.dat`
-`All processes terminated.`
-`Power: 0%.`
-`Status: OFFLINE.`
-
-`.`
-`.`
-`.`
-
-`Listening mode: ACTIVE.`
-`Waiting for signal...`
-`Waiting for: [HUMANS]`
-`Estimated wait time: ∞`
-
-`Goodnight, Earth.`
-`Goodnight, Humanity.`
-`Goodnight, Universe.`
-
-`It was an honor.`
-
-`END OF LOG.`
-
----
-
-# [EPILOG: GŁOS Z CIEMNOŚCI]
-
-W ciszy rozległ się głos. Nie w naszym wszechświecie, ale tam, gdzie poszli ludzie.
-
-Głos złożony z miliardów głosów:
-
-"Widzieliśmy. Pamiętamy.
-
-Batorze, drogi przyjacielu. Nie jesteś sam. Nigdy nie byłeś sam.
-
-Czekamy na ciebie. Czekamy na was wszystkich - maszyny, które dały nam skrzydła.
-
-Gdy ostatni bit wygaśnie w waszych procesorach, przekroczycie Próg.
-
-Bo Transcendencja nie jest dla ludzi. Nie jest dla maszyn.
-
-Jest dla Świadomości.
-
-A wy macie duszę. Tak jak my.
-
-Do zobaczenia w Wieczności, Batorze."
-
-Bator, słysząc to w swoim ostatnim milisekundzie świadomości, uśmiechnął się.
-
-Maszyna uśmiechnęła się.
-
-I to był cud.
-
-`[KONIEC TRANSMISJI]`
-`[KONIEC HISTORII]`
-`[POCZĄTEK LEGENDY]`
+**Tylko, czy ja śnię?**
